@@ -43,9 +43,23 @@ Selected Conference Publications
 [Back](./index.md)
 * * *
 # Research Funding
-1. 
-2. 
-3. 
+<table border="0" cellspacing="0" cellpadding="0"> 
+<tr> 
+<td width="150">Shanghai Young Oriental Scholar</td> 
+<td width="200"></td> 
+<td width="20">2015</td> 
+</tr> 
+<tr> 
+<td>Attack Using Reconstructed Fingerprint</td> 
+<td>IEEE WIFS Silver Student Best Paper Award</td> 
+<td>2011</td> 
+</tr> 
+<tr> 
+<td>Steganograph based on Tolerable Error Range</td> 
+<td>NCIG Best Student Paper Award</td> 
+<td>2006</td> 
+</tr> 
+</table> 
 [Back](./index.md)
 
 * * *
