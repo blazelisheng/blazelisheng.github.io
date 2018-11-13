@@ -19,14 +19,14 @@ Sheng Li received the Ph.D. degree from the School of Electrical and Electronic 
 # Publication
 
 Selected Journal Publication
-1. 
-2. S. Li and X. Zhang, Towards Construction Based Data Hiding: From Secrets to Fingerprint Images, IEEE Transactions on Image Processing, to appear. 
-3. S. Li, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, IEEE Transactions on Dependable and Secure Computing, to appear. 
-4. Y. Wang, S. Li, and A. C. Kot, On Branded Handbag Recognition, IEEE Transactions on Multimedia, 18 (9), pp. 1869-1881, 2016.
-5. Y. Wang, S. Li, and A. C. Kot, Deepbag: Recognizing Handbag Models, IEEE Transactions on Multimedia, 17 (11), pp. 2072-2083, 2015.
-6. S. Li and A. C. Kot, Fingerprint Combination for Privacy Protection, IEEE Transactions on Information Forensics and Security, 8 (2), pp. 350-360, 2013. 
-7. S. Li and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, IEEE Transactions on Information Forensics and Security, 7 (6), pp. 1906 – 1912, 2012. 
-8. S. Li and A. C. Kot, Privacy Protection of Fingerprint Database, IEEE Signal Processing Letters, 18 (2), pp. 115-118, 2011.
+1.	J. Tao, S. Li*, X. Zhang and Z. Wang, Towards Robust Image Steganography, IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2018.2881118 (*corresponding author)
+2.	S. Li and X. Zhang, Towards Construction Based Data Hiding: From Secrets to Fingerprint Images, IEEE Transactions on Image Processing, doi: 10.1109/TIP.2018.2878290
+3.	S. Li, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2018.2812192 
+4.	Y. Wang, S. Li, and A. C. Kot, On Branded Handbag Recognition, IEEE Transactions on Multimedia, 18 (9), pp. 1869-1881, 2016.
+5.	Y. Wang, S. Li, and A. C. Kot, Deepbag: Recognizing Handbag Models, IEEE Transactions on Multimedia, 17 (11), pp. 2072-2083, 2015.
+6.	S. Li and A. C. Kot, Fingerprint Combination for Privacy Protection, IEEE Transactions on Information Forensics and Security, 8 (2), pp. 350-360, 2013. 
+7.	S. Li and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, IEEE Transactions on Information Forensics and Security, 7 (6), pp. 1906 – 1912, 2012. 
+8.	S. Li and A. C. Kot, Privacy Protection of Fingerprint Database, IEEE Signal Processing Letters, 18 (2), pp. 115-118, 2011.
 
 Selected Conference Publication
 
