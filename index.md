@@ -8,7 +8,9 @@ layout: default
   <tr>
     <th width="160">
 <img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
-    <th><p align="left"> </p></th>
+    <th><p align="left">Pre-Tenure Associate Professor</p>
+        <p align="left">School of Computer Science</p>
+        <p align="left">Fudan University</p></th>
   </tr>
 </table>
 
