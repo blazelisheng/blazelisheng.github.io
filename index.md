@@ -67,11 +67,11 @@ A Reviewer for
 # Awards
 
 
-<table width="400" border="0" cellspacing="0" cellpadding="0"> 
+<table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<td width="105"Shanghai Young Oriental Scholar</td> 
-<td width="181"></td> 
-<td width="112">2015</td> 
+<td width="150"Shanghai Young Oriental Scholar</td> 
+<td width="200"></td> 
+<td width="20">2015</td> 
 </tr> 
 <tr> 
 <td>Attack Using Reconstructed Fingerprint</td> 
