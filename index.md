@@ -10,7 +10,7 @@ layout: default
     <th><p align="left">Pre-Tenure Associate Professor</p>
         <p align="left">School of Computer Science</p>
         <p align="left">Fudan University</p>
-        <p align="left">Email: lisheng@fudan.edu.cn</p>
+        <p align="left">Email: lisheng@fudan.edu.cn</p></th>
   </tr>
 </table>
 
