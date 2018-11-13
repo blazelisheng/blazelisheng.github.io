@@ -5,7 +5,7 @@ layout: default
 
 
 
-<img src="/assets/images/Sheng_Li_Photo.png" width="100" height="200" />
+<img src="/assets/images/Sheng_Li_Photo.png" width="150" height="200" />
 
 Sheng Li received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013. From 2013 to 2016, he was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. He is currently a Pre-Tenure Associate Professor with the School of Computer Science, Fudan University, China. His research interests include biometric template protection, pattern recognition, multimedia forensics, and security. He is a recipient of the IEEE WIFS Best Student Paper Silver Award.
 
