@@ -11,8 +11,8 @@ layout: default
     <th><p align="left">Pre-Tenure Associate Professor</p>
         <p align="left">School of Computer Science</p>
         <p align="left">Fudan University</p>
-        <p align="left">**Email:** lisheng@fudan.edu.cn</p>
-        <p align="left">**Address:** 825 Zhangheng Rd., Shanghai 201203, China </p></th>
+        <p align="left">Email: lisheng@fudan.edu.cn</p>
+        <p align="left">Address: 825 Zhangheng Rd., Shanghai 201203, China </p></th>
   </tr>
 </table>
 
@@ -45,12 +45,27 @@ Selected Conference Publications
 * * *
 # Research Funding
 * * *
+1. 
+2. 
+3. 
 [Back](./index.md)
 # Acdemia Service
+A Reviewer for
+1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
+2.	IEEE Transactions on Image Processing
+3.	IEEE Transactions on Information Forensics and Security
+4.	IEEE Signal Processing Letters
+5.	EURASIP Journal on Advances in Signal Processing
+6.	IEEE International Conference on Image Processing
+7.	IEEE International Conference on Multimedia and Expo
 
 [Back](./index.md)
 
 # Awards
+Shanghai Young Oriental Scholar, 2015
+Attack Using Reconstructed Fingerprint,IEEE WIFS Silver Student Best Paper Award, 2011
+Steganograph based on Tolerable Error Range, NCIG Best Student Paper Award，2006 
+
 
 [Back](./index.md)
 
