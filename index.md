@@ -65,11 +65,25 @@ A Reviewer for
 * * *
 
 # Awards
-<p align="left">Shanghai Young Oriental Scholar, 2015</p>
-<p align="left">Attack Using Reconstructed Fingerprint,IEEE WIFS Silver Student Best Paper Award, 2011</p>
-<p align="left">Steganograph based on Tolerable Error Range, NCIG Best Student Paper Award，2006 </p>
 
 
+<table width="400" border="0" cellspacing="0" cellpadding="0"> 
+<tr> 
+<td width="105"Shanghai Young Oriental Scholar</td> 
+<td width="181"></td> 
+<td width="112">2015</td> 
+</tr> 
+<tr> 
+<td>Attack Using Reconstructed Fingerprint</td> 
+<td>IEEE WIFS Silver Student Best Paper Award</td> 
+<td>2011</td> 
+</tr> 
+<tr> 
+<td>Steganograph based on Tolerable Error Range</td> 
+<td>NCIG Best Student Paper Award</td> 
+<td>2006</td> 
+</tr> 
+</table> 
 
 
 [Back](./index.md)
