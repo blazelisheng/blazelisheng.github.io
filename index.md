@@ -69,8 +69,8 @@ A Reviewer for
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<td width="150"Young Oriental Scholar</td> 
-<td width="200">Shanghai Higher Education</td> 
+<td width="150">Shanghai Young Oriental Scholar</td> 
+<td width="200"></td> 
 <td width="20">2015</td> 
 </tr> 
 <tr> 
