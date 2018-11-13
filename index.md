@@ -6,10 +6,10 @@ layout: default
   <tr>
     <th width="160">
 <img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
-  <th> <p align="left"><font size="+5"> Pre-Tenure Associate Professor</font></p>
-        <p align="left">School of Computer Science</p>
-        <p align="left">Fudan University</p>
-        <p align="left">Email: lisheng@fudan.edu.cn</p></th>
+  <th> <p align="left"><font size="+2"> Pre-Tenure Associate Professor</font></p>
+        <p align="left"><font size="+2">School of Computer Science</font></p>
+        <p align="left"><font size="+2">Fudan University</font></p>
+        <p align="left"><font size="+2">Email:</font> lisheng@fudan.edu.cn</p></th>
   </tr>
 </table>
 
