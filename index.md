@@ -12,7 +12,7 @@ layout: default
         <p align="left">School of Computer Science</p>
         <p align="left">Fudan University</p>
         <p align="left">Email: lisheng@fudan.edu.cn</p>
-        <p align="left">Address: 825 Zhangheng Rd., Shanghai 201203, China </p></th>
+        <p align="left">Address: Software Building 328, 825 Zhangheng Road, Shanghai 201203, China </p></th>
   </tr>
 </table>
 
@@ -44,12 +44,14 @@ Selected Conference Publications
 [Back](./index.md)
 * * *
 # Research Funding
-* * *
 1. 
 2. 
 3. 
 [Back](./index.md)
+
+* * *
 # Acdemia Service
+
 A Reviewer for
 1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
 2.	IEEE Transactions on Image Processing
@@ -61,15 +63,19 @@ A Reviewer for
 
 [Back](./index.md)
 
+* * *
+
 # Awards
-Shanghai Young Oriental Scholar, 2015
-Attack Using Reconstructed Fingerprint,IEEE WIFS Silver Student Best Paper Award, 2011
-Steganograph based on Tolerable Error Range, NCIG Best Student Paper Award，2006 
+<p align="left">Shanghai Young Oriental Scholar, 2015</p>
+<p align="left">Attack Using Reconstructed Fingerprint,IEEE WIFS Silver Student Best Paper Award, 2011</p>
+<p align="left">Steganograph based on Tolerable Error Range, NCIG Best Student Paper Award，2006 </p>
+
+
 
 
 [Back](./index.md)
 
-
+* * *
 
 
 
