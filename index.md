@@ -6,8 +6,8 @@ layout: default
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <th width="120">
-<img src="/assets/images/Sheng_Li_Photo.png" width="120" height="150" /></th>
+    <th width="160">
+<img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
     <th><p align="left">Pre-Tenure Associate Professor</p>
         <p align="left">School of Computer Science</p>
         <p align="left">Fudan University</p>
