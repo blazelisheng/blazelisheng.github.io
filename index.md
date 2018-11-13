@@ -10,7 +10,9 @@ layout: default
 <img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
     <th><p align="left">Pre-Tenure Associate Professor</p>
         <p align="left">School of Computer Science</p>
-        <p align="left">Fudan University</p></th>
+        <p align="left">Fudan University</p>
+        <p align="left">**Email:** lisheng@fudan.edu.cn</p>
+        <p align="left">**Address:** 825 Zhangheng Rd., Shanghai 201203, China </p></th>
   </tr>
 </table>
 
@@ -39,18 +41,18 @@ Selected Conference Publications
 6.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security_, Iguacu Falls, 2011, pp. 1-6. **Student Best Paper Silver Award**
 7.	_**S. Li**_ and A. C. Kot, _Privacy Protection of Fingerprint Database Using Lossless Data Hiding_, IEEE International Conference on Multimedia and Expo (ICME), Suntec City, 2010, pp. 1293-1298. 
 
-[Back](./index.md).
+[Back](./index.md)
 * * *
 # Research Funding
 * * *
-[Back](./index.md).
+[Back](./index.md)
 # Acdemia Service
 
-[Back](./index.md).
+[Back](./index.md)
 
 # Awards
 
-[Back](./index.md).
+[Back](./index.md)
 
 
 
