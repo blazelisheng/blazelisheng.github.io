@@ -4,7 +4,7 @@ layout: default
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0">
   <tr>
     <th width="160">
 <img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
