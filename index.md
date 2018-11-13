@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<table border="0" cellspacing="0" cellpadding="0"> 
-<tr> 
-<td width="150">Shanghai Young Oriental Scholar</td> 
-<td width="200"></td> 
-<td width="20">2015</td> 
-</tr> 
-<tr> 
-<td>Attack Using Reconstructed Fingerprint</td> 
-<td>IEEE WIFS Silver Student Best Paper Award</td> 
-<td>2011</td> 
-</tr> 
-<tr> 
-<td>Steganograph based on Tolerable Error Range</td> 
-<td>NCIG Best Student Paper Award</td> 
-<td>2006</td> 
-</tr> 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <th width="160">
+<img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
+  <th> <p align="left">Pre-Tenure Associate Professor</p>
+        <p align="left">School of Computer Science</p>
+        <p align="left">Fudan University</p>
+        <p align="left">Email: lisheng@fudan.edu.cn</p></th>
+  </tr>
 </table>
+
 
 
 
