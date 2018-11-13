@@ -4,11 +4,6 @@ layout: default
 
 
 
-
-[Link to another page](./another-page.html).
-
-
-
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 Sheng Li received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013. From 2013 to 2016, he was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. He is currently a Pre-Tenure Associate Professor with the School of Computer Science, Fudan University, China. His research interests include biometric template protection, pattern recognition, multimedia forensics, and security. He is a recipient of the IEEE WIFS Best Student Paper Silver Award.
@@ -36,13 +31,18 @@ Selected Conference Publications
 6.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security_, Iguacu Falls, 2011, pp. 1-6. **Student Best Paper Silver Award**
 7.	_**S. Li**_ and A. C. Kot, _Privacy Protection of Fingerprint Database Using Lossless Data Hiding_, IEEE International Conference on Multimedia and Expo (ICME), Suntec City, 2010, pp. 1293-1298. 
 
-
+[Back](./index.md).
 * * *
 # Research Funding
 * * *
+[Back](./index.md).
 # Acdemia Service
 
+[Back](./index.md).
+
 # Awards
+
+[Back](./index.md).
 
 
 
