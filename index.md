@@ -101,7 +101,7 @@ A Reviewer for
 </tr> 
 <tr> 
 <th>Attack Using Reconstructed Fingerprint</th> 
-<th>IEEE WIFS Silver Student Best Paper Award</th> 
+<th>IEEE WIFS Best Student Paper Silver Award</th> 
 <th>2011</th> 
 </tr> 
 <tr> 
