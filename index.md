@@ -21,6 +21,8 @@ Sheng Li received the Ph.D. degree from the School of Electrical and Electronic 
 - Multimedia Forensics and Security
   - Data Hiding
   - Steganalysis
+- Object Recognition, Deep Learning
+
 
 * * *
 
