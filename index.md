@@ -114,7 +114,4 @@ A Reviewer for
 
 [Back](./index.md)
 
-* * *
-
-
 
