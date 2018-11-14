@@ -91,8 +91,8 @@ A Reviewer for
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<th width="300">Shanghai Young Oriental Scholar</th> 
-<th width="300">2015</th> 
+<th width="400">Shanghai Young Oriental Scholar</th> 
+<th width="350">2015</th> 
 <th width="20"></th> 
 </tr> 
 <tr> 
