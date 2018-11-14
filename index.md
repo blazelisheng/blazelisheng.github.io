@@ -74,19 +74,19 @@ A Reviewer for
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<td width="150">Shanghai Young Oriental Scholar</td> 
-<td width="200"></td> 
-<td width="20">2015</td> 
+<th width="150">Shanghai Young Oriental Scholar</th> 
+<th width="200"></td> 
+<th width="20">2015</th> 
 </tr> 
 <tr> 
-<td>Attack Using Reconstructed Fingerprint</td> 
-<td>IEEE WIFS Silver Student Best Paper Award</td> 
-<td>2011</td> 
+<th>Attack Using Reconstructed Fingerprint</th> 
+<th>IEEE WIFS Silver Student Best Paper Award</th> 
+<th>2011</th> 
 </tr> 
 <tr> 
-<td>Steganograph based on Tolerable Error Range</td> 
-<td>NCIG Best Student Paper Award</td> 
-<td>2006</td> 
+<th>Steganograph based on Tolerable Error Range</th> 
+<th>NCIG Best Student Paper Award</th> 
+<th>2006</th> 
 </tr> 
 </table>
 
