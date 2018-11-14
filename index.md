@@ -56,7 +56,7 @@ Conference (selected)
 <tr> 
 <th width="150">National Natural Science Foundation of China</th> 
 <th width="50">PI</th> 
-<th width="50">2016.12-2019.12</th> 
+<th width="150">2016.12-2019.12</th> 
 </tr> 
 <tr> 
 <th>Shanghai Sailing Program</th> 
