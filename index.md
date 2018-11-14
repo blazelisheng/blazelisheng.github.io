@@ -31,7 +31,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 Journal (selected)
 
 1.	J. Tao, _**S. Li**_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2018.2881118 (corresponding author)
-2.	_**S. Li**_ and X. Zhang, Towards Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, doi: 10.1109/TIP.2018.2878290 [Reported by IEEE Spectrum](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
+2.	_**S. Li**_ and X. Zhang, Towards Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, doi: 10.1109/TIP.2018.2878290 [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
 3.	_**S. Li**_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2018.2812192 
 4.	Y. Wang, _**S. Li**_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
 5.	Y. Wang, _**S. Li**_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
