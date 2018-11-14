@@ -26,7 +26,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 
 * * *
 
-# PUBLICATION
+# PUBLICATIONS
 
 Journal (selected)
 
@@ -52,7 +52,7 @@ Conference (selected)
 [Back](./index.md)
 
 * * *
-# FUNDING
+# FUNDINGS
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
@@ -75,7 +75,7 @@ Conference (selected)
 [Back](./index.md)
 
 * * *
-# SERVICE
+# SERVICES
 
 A Reviewer for
 1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -90,7 +90,7 @@ A Reviewer for
 
 * * *
 
-# AWARD
+# AWARDS
 
 
 <table border="0" cellspacing="0" cellpadding="0"> 
