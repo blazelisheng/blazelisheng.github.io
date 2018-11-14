@@ -4,12 +4,12 @@ layout: default
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <th width="160">
-<img src="/assets/images/Sheng_Li_Photo.png" width="160" height="200" /></th>
-  <th> <p align="left"><font size="+2"> Pre-Tenure Associate Professor</font></p>
-        <p align="left"><font size="+2">School of Computer Science</font></p>
-        <p align="left"><font size="+2">Fudan University</font></p>
-        <p align="left"><font size="+2">Email:</font> lisheng@fudan.edu.cn</p></th>
+    <th width="150">
+<img src="/assets/images/Sheng_Li_Photo.png" width="150" height="180" /></th>
+  <th> <p align="left"><font size="+1"> Pre-Tenure Associate Professor</font></p>
+        <p align="left"><font size="+1">School of Computer Science</font></p>
+        <p align="left"><font size="+1">Fudan University</font></p>
+        <p align="left"><font size="+1">Email:</font> lisheng@fudan.edu.cn</p></th>
   </tr>
 </table>
 
