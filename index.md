@@ -7,10 +7,10 @@ layout: default
     <th width="150">
 <img src="/assets/images/Sheng_Li_Photo.png" width="150" height="180" /></th>
   <th>  <p line-height:8pt align="left"><font size="+1"> Dr. Sheng LI (李晟)</font></p>
-        <p align="left"><font size="+1"> Pre-Tenure Associate Professor</font></p>
-        <p align="left"><font size="+1">School of Computer Science</font></p>
-        <p align="left"><font size="+1">Fudan University</font></p>
-        <p align="left"><font size="+1">Email:</font> lisheng@fudan.edu.cn</p></th>
+        <p line-height:8pt align="left"><font size="+1"> Pre-Tenure Associate Professor</font></p>
+        <p line-height:8pt align="left"><font size="+1">School of Computer Science</font></p>
+        <p line-height:8pt align="left"><font size="+1">Fudan University</font></p>
+        <p line-height:8pt align="left"><font size="+1">Email:</font> lisheng@fudan.edu.cn</p></th>
   </tr>
 </table>
 
