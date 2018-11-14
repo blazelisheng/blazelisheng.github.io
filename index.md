@@ -6,11 +6,11 @@ layout: default
   <tr>
     <th width="150">
 <img src="/assets/images/Sheng_Li_Photo.png" width="150" height="180" /></th>
-  <th>  <p line-height:0pt align="left"><font size="+1"> Dr. Sheng LI (李晟)</font></p>
-        <p line-height:0pt align="left"><font size="+1"> Pre-Tenure Associate Professor</font></p>
-        <p line-height:8pt align="left"><font size="+1">School of Computer Science</font></p>
-        <p line-height:8pt align="left"><font size="+1">Fudan University</font></p>
-        <p line-height:8pt align="left"><font size="+1">Email:</font> lisheng@fudan.edu.cn</p></th>
+  <th>  Dr. Sheng LI (李晟)<br/>
+        Pre-Tenure Associate Professor<br/>
+        School of Computer Science</font><br/>
+        Fudan University<br/>
+        Email:</font> lisheng@fudan.edu.cn<br/></th>
   </tr>
 </table>
 
@@ -20,9 +20,9 @@ layout: default
 Sheng Li received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013. From 2013 to 2016, he was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. He is currently a Pre-Tenure Associate Professor with the School of Computer Science, Fudan University, China. His research interests include biometric template protection, pattern recognition, multimedia forensics, and security. He is a recipient of the IEEE WIFS Best Student Paper Silver Award.
 
 * * *
-# Publications
+# Publication
 
-Selected Journal Publications
+Journal (selected)
 1.	J. Tao, _**S. Li**_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2018.2881118 (corresponding author)
 2.	_**S. Li**_ and X. Zhang, Towards Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, doi: 10.1109/TIP.2018.2878290
 3.	_**S. Li**_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2018.2812192 
@@ -32,7 +32,7 @@ Selected Journal Publications
 7.	_**S. Li**_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
 8.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
 
-Selected Conference Publications
+Conference (selected)
 
 1. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
 2. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
@@ -48,7 +48,7 @@ Selected Conference Publications
 
 
 * * *
-# Acdemia Service
+# Academiac Service
 
 A Reviewer for
 1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
