@@ -35,7 +35,7 @@ Journal (selected)
 3.	_**S. Li**_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2018.2812192 
 4.	Y. Wang, _**S. Li**_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
 5.	Y. Wang, _**S. Li**_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
-6.	_**S. Li**_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013. [paper](/assets/papers/TIFS2013.pdf)
+6.	_**S. Li**_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013.[[paper]](/assets/papers/TIFS2013.pdf)
 7.	_**S. Li**_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
 8.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
 
