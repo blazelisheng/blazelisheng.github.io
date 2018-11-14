@@ -54,7 +54,7 @@ Conference (selected)
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<th width="200">National Natural Science Foundation of China</th> 
+<th width="300">National Natural Science Foundation of China</th> 
 <th width="50">PI</th> 
 <th width="150">2016.12-2019.12</th> 
 </tr> 
@@ -91,7 +91,7 @@ A Reviewer for
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<th width="150">Shanghai Young Oriental Scholar</th> 
+<th width="300">Shanghai Young Oriental Scholar</th> 
 <th width="200">2015</th> 
 <th width="20"></th> 
 </tr> 
