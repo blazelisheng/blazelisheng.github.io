@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# BIOGRAPHY
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th width="150">
@@ -18,7 +18,7 @@ Sheng Li received the Ph.D. degree from the School of Electrical and Electronic 
 - Biometrics
   - Template Protection
   - Spoofing Detection
--  Multimedia Forensics and Security
+- Multimedia Forensics and Security
   - Data Hiding
   - Steganalysis
 
