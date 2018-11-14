@@ -6,11 +6,11 @@ layout: default
   <tr>
     <th width="150">
 <img src="/assets/images/Sheng_Li_Photo.png" width="150" height="180" /></th>
-  <th>  <br align="left">  Dr. Sheng LI (李晟)<br/>
-        <br align="left">  Pre-Tenure Associate Professor<br/>
-        <br align="left"> School of Computer Science</font><br/>
-        <br align="left"> Fudan University<br/>
-        <br align="left"> Email:</font> lisheng@fudan.edu.cn<br/></th>
+  <th>  <br>  Dr. Sheng LI (李晟)<br/>
+        <br>  Pre-Tenure Associate Professor<br/>
+        <br> School of Computer Science</font><br/>
+        <br> Fudan University<br/>
+        <br> Email:</font> lisheng@fudan.edu.cn<br/></th>
   </tr>
 </table>
 
