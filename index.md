@@ -6,7 +6,7 @@ layout: default
   <tr>
     <th width="150">
 <img src="/assets/images/Sheng_Li_Photo.png" width="150" height="180" /></th>
-  <th> <font size="6" color="Blue">  Dr. Sheng LI (李晟) </font><br/><font size="3.5"><b>Pre-Tenure Associate Professor</b><br/>School of Computer Science, Fudan University<br/><b>Email:</b>  lisheng@fudan.edu.cn  <br/> Address: Software Building 328, Zhangheng Road 825, Shanghai, P. R. China 201203</font></th>
+  <th> <font size="6" color="Blue">  Dr. Sheng LI (李晟) </font><br/><b>Pre-Tenure Associate Professor</b><br/>School of Computer Science, Fudan University<br/><b>Email:</b>  lisheng@fudan.edu.cn  <br/> Address: Software Building 328, Zhangheng Road 825, Shanghai, P. R. China 201203</th>
   </tr>
 </table>
 
