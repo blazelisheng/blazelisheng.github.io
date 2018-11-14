@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Home
+# BIOGRAPHY
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th width="150">
@@ -11,12 +11,21 @@ layout: default
 </table>
 
 
-
-
 Sheng Li received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013. From 2013 to 2016, he was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. He is currently a Pre-Tenure Associate Professor with the School of Computer Science, Fudan University, China. His research interests include biometric template protection, pattern recognition, multimedia forensics, and security. He is a recipient of the IEEE WIFS Best Student Paper Silver Award.
 
 * * *
-# Publication
+# RESEARCHES
+- Biometrics
+  - Template Protection
+  - Spoofing Detection
+-  Multimedia Forensics and Security
+  - Data Hiding
+  - Steganalysis
+
+[Back](./index.md)
+* * *
+
+# PUBLICATIONS
 
 Journal (selected)
 1.	J. Tao, _**S. Li**_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2018.2881118 (corresponding author)
@@ -39,12 +48,13 @@ Conference (selected)
 7.	_**S. Li**_ and A. C. Kot, _Privacy Protection of Fingerprint Database Using Lossless Data Hiding_, IEEE International Conference on Multimedia and Expo (ICME), Suntec City, 2010, pp. 1293-1298. 
 
 [Back](./index.md)
+
 * * *
-# Research Funding
+# FUNDINGS
 
 
 * * *
-# Academiac Service
+# SERVICES
 
 A Reviewer for
 1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -59,7 +69,7 @@ A Reviewer for
 
 * * *
 
-# Awards
+# AWARDS
 
 
 
