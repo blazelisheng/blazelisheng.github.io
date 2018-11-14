@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<title>D</title>
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th width="150">
