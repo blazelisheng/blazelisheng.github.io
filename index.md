@@ -3,10 +3,11 @@ layout: default
 ---
 
 <table border="0" cellspacing="0" cellpadding="0">
+ 
   <tr>
     <th width="150">
 <img src="/assets/images/Sheng_Li_Photo.png" width="150" height="180" /></th>
-  <th> <p align="left"><font size="+1"> Dr. Sheng LI (李晟)</font></p>
+  <th>  p{ margin:0 auto} <p align="left"><font size="+1"> Dr. Sheng LI (李晟)</font></p>
         <p align="left"><font size="+1"> Pre-Tenure Associate Professor</font></p>
         <p align="left"><font size="+1">School of Computer Science</font></p>
         <p align="left"><font size="+1">Fudan University</font></p>
