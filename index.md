@@ -27,6 +27,7 @@ Sheng Li received the Ph.D. degree from the School of Electrical and Electronic 
 # PUBLICATIONS
 
 Journal (selected)
+<div class="justify">
 1.	J. Tao, _**S. Li**_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2018.2881118 (corresponding author)
 2.	_**S. Li**_ and X. Zhang, Towards Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, doi: 10.1109/TIP.2018.2878290 [Reported by IEEE Spectrum](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
 3.	_**S. Li**_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2018.2812192 
@@ -44,7 +45,7 @@ Conference (selected)
 4.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
 5.	_**S. Li**_ and A. C. Kot, A Novel System for Fingerprint Privacy Protection, _International Conference on Information Assurance and Security (IAS)_, Melaka, 2011, pp. 262-266.
 6.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security_, Iguacu Falls, 2011, pp. 1-6. **Student Best Paper Silver Award**
-7.	_**S. Li**_ and A. C. Kot, _Privacy Protection of Fingerprint Database Using Lossless Data Hiding_, IEEE International Conference on Multimedia and Expo (ICME), Suntec City, 2010, pp. 1293-1298. 
+7.	_**S. Li**_ and A. C. Kot, _Privacy Protection of Fingerprint Database Using Lossless Data Hiding_, IEEE International Conference on Multimedia and Expo (ICME), Suntec City, 2010, pp. 1293-1298. <span></span></div>
 
 [Back](./index.md)
 
