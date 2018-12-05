@@ -16,9 +16,10 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 * * *
 # RESEARCHES
 - Biometrics
-  - Template Protection
-  - Spoofing Detection
+  - Privacy Protection
+  - Liveness Detection
 - Multimedia Forensics and Security
+  - Image Forensics
   - Data Hiding
   - Steganalysis
 - Object Recognition, Deep Learning
