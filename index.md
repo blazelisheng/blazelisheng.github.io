@@ -84,9 +84,10 @@ IEEE Journals and Conferences
 1. IEEE Transactions on Pattern Analysis and Machine Intelligence
 2. IEEE Transactions on Image Processing
 3. IEEE Transactions on Information Forensics and Security
-4. IEEE Signal Processing Letters
-5. IEEE International Conference on Image Processing
-6. IEEE International Conference on Multimedia and Expo
+4. IEEE Transactions on Multimedia
+5. IEEE Signal Processing Letters
+6. IEEE International Conference on Image Processing
+7. IEEE International Conference on Multimedia and Expo
 
 Non-IEEE Journals
 1. Journal of Real-Time Image Processing
