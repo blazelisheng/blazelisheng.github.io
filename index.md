@@ -47,7 +47,7 @@ Conference (selected)
 2. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
 3.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
 4.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
-5.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
+5.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
 6.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
 
 [Back](./index.md)
