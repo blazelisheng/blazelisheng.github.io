@@ -47,9 +47,8 @@ Conference (selected)
 2. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
 3.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
 4.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
-5.	_**S. Li**_ and A. C. Kot, A Novel System for Fingerprint Privacy Protection, _International Conference on Information Assurance and Security (IAS)_, Melaka, 2011, pp. 262-266.
-6.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
-7.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
+5.	_**S. Li**_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
+6.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
 
 [Back](./index.md)
 
@@ -80,13 +79,19 @@ Conference (selected)
 # SERVICES
 
 A Reviewer for
-1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
-2.	IEEE Transactions on Image Processing
-3.	IEEE Transactions on Information Forensics and Security
-4.	IEEE Signal Processing Letters
-5.	EURASIP Journal on Advances in Signal Processing
-6.	IEEE International Conference on Image Processing
-7.	IEEE International Conference on Multimedia and Expo
+IEEE Journals and Conferences
+1. IEEE Transactions on Pattern Analysis and Machine Intelligence
+2. IEEE Transactions on Image Processing
+3. IEEE Transactions on Information Forensics and Security
+4. IEEE Signal Processing Letters
+5. IEEE International Conference on Image Processing
+6. IEEE International Conference on Multimedia and Expo
+
+Non-IEEE Journals
+1. Journal of Real-Time Image Processing
+2. Multimedia Tools and Applications
+3. EURASIP Journal on Advances in Signal Processing
+4. Journal of Information Security and Applications
 
 [Back](./index.md)
 
