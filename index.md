@@ -6,7 +6,7 @@ layout: default
   <tr>
     <th width="120">
 <img src="/assets/images/Sheng_Li_Photo.png" width="120" height="150" /></th>
-  <th> <font size="4" color="Blue">  Dr. Sheng LI (李晟) </font><br/> <i>Pre-Tenure Associate Professor, </i> <br/><i>School of Computer Science, Fudan University</i><br/>Email: lisheng [at] fudan.edu.cn</th>
+  <th> <font size="4" color="Blue">  Sheng LI (李晟) </font><br/> <i>Pre-Tenure Associate Professor, </i> <br/><i>School of Computer Science, Fudan University</i><br/>Email: lisheng [at] fudan.edu.cn</th>
   </tr>
 </table>
 
