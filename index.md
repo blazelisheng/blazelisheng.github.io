@@ -28,7 +28,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 * * *
 
 # PUBLICATIONS
-* corresponding author
+ _* corresponding author_
 
 Journal (selected)
 1. X. Zhu, _S. Li*_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, accepted.
