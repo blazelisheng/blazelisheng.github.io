@@ -31,7 +31,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
  _* corresponding author_
 
 Journal (selected)
-1. X. Zhu, _S. Li*_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, accepted.
+1. X. Zhu, _**S. Li***_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, accepted.
 2. G. Feng, X. Zhang, Y. Ren, Z. Qian, and _S. Li*_, Diversity-based Cascade Filters for JPEG Steganalysis, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2019.2891778. [[Code]](https://github.com/blazelisheng/mdfeature)
 3.	J. Tao, _S. Li*_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 594-600, Feb. 2019.
 4.	_S. Li*_ and X. Zhang, Toward Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, vol. 28, no. 3, pp. 1482-1497, March 2019. [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
