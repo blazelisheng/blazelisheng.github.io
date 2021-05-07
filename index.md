@@ -60,16 +60,36 @@ Conference (selected)
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
+<th width="400">Artificial Intelligence Security Model and Testing Methods</th>
+<th width="400">National Natural Science Foundation of China</th> 
+<th width="50">co-PI</th> 
+<th width="150">2021.1-2023.12</th> 
+</tr> 
+<tr> 
+<th width="400">Robust Image Steganography for Social Networks</th>
+<th width="400">National Natural Science Foundation of China</th> 
+<th width="50">PI</th> 
+<th width="150">2021.1-2023.12</th> 
+</tr> 
+<th width="400">xxxProtection Methods</th>
+<th width="400">The National Key Research and Development Program of China</th> 
+<th width="50">co-PI</th> 
+<th width="150">2019.7-2022.6</th> 
+</tr> 
+<tr> 
+<th width="400">Fingerprint Data Hiding and Disguising</th>
 <th width="400">National Natural Science Foundation of China</th> 
 <th width="50">PI</th> 
 <th width="150">2016.12-2019.12</th> 
 </tr> 
 <tr> 
+<th width="400">Biometrics Disguising</th>
 <th>Shanghai Sailing Program</th> 
 <th>PI</th> 
 <th>2016.6-2019.6</th> 
 </tr> 
 <tr> 
+<th width="400">National Natural Science Foundation of China</th>
 <th>Shanghai Young Oriental Scholar</th> 
 <th>PI</th> 
 <th>2015-2018</th> 
