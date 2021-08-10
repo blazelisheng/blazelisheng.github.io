@@ -36,7 +36,7 @@ Journal (selected)
 3. G. Feng, X. Zhang, Y. Ren, Z. Qian, and _**S. Li***_, Diversity-based Cascade Filters for JPEG Steganalysis, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 30, no. 2, pp. 376-386, 2020. (ESI highly cited)
 4.	_**S. Li***_ and X. Zhang, Toward Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, vol. 28, no. 3, pp. 1482-1497, March 2019. (ESI highly cited) [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
 5.	_**S. Li***_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, vol. 17, no. 4, pp. 828-840, 1 July-Aug. 2020.
-6.	4.	J. Tao#, _**S. Li***_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 594-600, Feb. 2019. (ESI highly cited)
+6.	J. Tao, _**S. Li***_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 594-600, Feb. 2019. (ESI highly cited)
 7.	Y. Wang, _S. Li_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
 8.	Y. Wang, _S. Li_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
 9.	_**S. Li***_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013.
@@ -63,7 +63,7 @@ Conference (selected)
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
 <th width="400">Artificial Intelligence Security Model and Testing Methods</th>
-<th width="400">National Natural Science Foundation of China</th> 
+<th width="400">National Natural Science Foundation of China Key Project</th> 
 <th width="50">co-PI</th> 
 <th width="150">2021.1-2023.12</th> 
 </tr> 
