@@ -31,7 +31,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
  _**corresponding author***_, 
 
 Journal (selected)
-1. 1.	W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2021.3092004.
+1. W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2021.3092004.
 2. X. Zhu, _**S. Li***_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 31, no. 5, pp. 2039-2045, 2021.
 3. G. Feng, X. Zhang, Y. Ren, Z. Qian, and _**S. Li***_, Diversity-based Cascade Filters for JPEG Steganalysis, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 30, no. 2, pp. 376-386, 2020. (ESI highly cited)
 4.	_**S. Li***_ and X. Zhang, Toward Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, vol. 28, no. 3, pp. 1482-1497, March 2019. (ESI highly cited) [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
