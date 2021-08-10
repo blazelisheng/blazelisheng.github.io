@@ -82,7 +82,7 @@ Conference (selected)
 <tr> 
 <th width="400">Biometrics Data Protection based on Data Hiding</th>
 <th width="400">Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security, Key Project</th> 
-<th width="50">co-PI</th> 
+<th width="50">PI</th> 
 <th width="150">2019.1-2021.12</th> 
 </tr> 
 <tr> 
