@@ -22,36 +22,38 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
   - Image Forensics
   - Data Hiding
   - Steganalysis
-- Object Recognition, Deep Learning
+- Image Recognition, Deep Learning
 
 
 * * *
 
 # PUBLICATIONS
- _**corresponding author***_, students under my supervision # 
+ _**corresponding author***_, 
 
 Journal (selected)
-1. X. Zhu#, _**S. Li***_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2019.2949868.
-2. G. Feng, X. Zhang, Y. Ren, Z. Qian, and _**S. Li***_, Diversity-based Cascade Filters for JPEG Steganalysis, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2019.2891778. [[Code]](https://github.com/blazelisheng/mdfeature)
-3.	J. Tao#, _**S. Li***_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 594-600, Feb. 2019.
-4.	_**S. Li***_ and X. Zhang, Toward Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, vol. 28, no. 3, pp. 1482-1497, March 2019. [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
-5.	_**S. Li***_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2018.2812192 
-6.	Y. Wang, _S. Li_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
-7.	Y. Wang, _S. Li_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
-8.	_**S. Li***_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013.
-9.	_**S. Li***_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
-10.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
+1. 1.	W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2021.3092004.
+2. X. Zhu, _**S. Li***_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 31, no. 5, pp. 2039-2045, 2021.
+3. G. Feng, X. Zhang, Y. Ren, Z. Qian, and _**S. Li***_, Diversity-based Cascade Filters for JPEG Steganalysis, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 30, no. 2, pp. 376-386, 2020. (ESI highly cited)
+4.	_**S. Li***_ and X. Zhang, Toward Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, vol. 28, no. 3, pp. 1482-1497, March 2019. (ESI highly cited) [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
+5.	_**S. Li***_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, vol. 17, no. 4, pp. 828-840, 1 July-Aug. 2020.
+6.	4.	J. Tao#, _**S. Li***_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 594-600, Feb. 2019. (ESI highly cited)
+7.	Y. Wang, _S. Li_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
+8.	Y. Wang, _S. Li_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
+9.	_**S. Li***_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013.
+10.	_**S. Li***_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
+11.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
 
 Conference (selected)
 
-1. Z. You, S. Li, Z. Qian*, and X. Zhang, Reversible Privacy-Preserving Recognition, IEEE International Conference on Multimedia and Expo (ICME), 2021.
-2. M. Shi, S. Li, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, IEEE International Conference on Multimedia and Expo (ICME), 2021.
-3. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
-4. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
-5.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
-6.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
-7.	_**S. Li***_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
-8.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
+1.  _**S. Li**_, X. Zhu, G. Feng, X. Zhang, and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, ACM Multimedia, 2021 (too appear). 
+2. Z. You,  _**S. Li**_, Z. Qian*, and X. Zhang, Reversible Privacy-Preserving Recognition, IEEE International Conference on Multimedia and Expo (ICME), 2021.
+3. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, IEEE International Conference on Multimedia and Expo (ICME), 2021.
+4. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
+5. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
+6.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
+7.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
+8.	_**S. Li***_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
+9.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
 
 [Back](./index.md)
 
@@ -102,22 +104,20 @@ Conference (selected)
 * * *
 # SERVICES
 
-A Reviewer for
+International Journal Guest Editor：
+1.	Low complexity methods for multimedia security, Multimedia Systems, 2019
+2.	Recent Advances in Deep Learning Model Security, Pattern Recognition Letters, 2021
 
-IEEE Journals and Conferences
-1. IEEE Transactions on Pattern Analysis and Machine Intelligence
-2. IEEE Transactions on Image Processing
-3. IEEE Transactions on Information Forensics and Security
-4. IEEE Transactions on Multimedia
-5. IEEE Signal Processing Letters
-6. IEEE International Conference on Image Processing
-7. IEEE International Conference on Multimedia and Expo
-
-Non-IEEE Journals
-1. Journal of Real-Time Image Processing
-2. Multimedia Tools and Applications
-3. EURASIP Journal on Advances in Signal Processing
-4. Journal of Information Security and Applications
+Reviewer：
+1.	IEEE Transactions on Pattern Analysis and Machine Intelligence
+2.	IEEE Transactions on Image Processing
+3.	IEEE Transactions on Information Forensics and Security
+4.	IEEE Transactions on Multimedia
+5.	IEEE Transactions on Neural Networks and Learning Systems
+6.	IEEE Signal Processing Letters
+7.	EURASIP Journal on Advances in Signal Processing
+8.	IEEE International Conference on Image Processing
+9.	IEEE International Conference on Multimedia and Expo
 
 [Back](./index.md)
 
