@@ -89,13 +89,13 @@ Conference (selected)
 <th width="400">Fingerprint Data Hiding and Disguising</th>
 <th width="400">National Natural Science Foundation of China</th> 
 <th width="50">PI</th> 
-<th width="150">2016.12-2019.12</th> 
+<th width="150">2017.1-2019.12</th> 
 </tr> 
 <tr> 
 <th width="400">Biometrics Disguising</th>
 <th>Shanghai Sailing Program</th> 
 <th>PI</th> 
-<th>2016.6-2019.6</th> 
+<th>2016.6-2019.5</th> 
 </tr> 
 <tr> 
 <th width="400">Biometrics Security</th>
