@@ -28,7 +28,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 * * *
 
 # PUBLICATIONS
- _**corresponding author***_, 
+ _**corresponding author***_
 
 Journal (selected)
 1. W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2021.3092004.
