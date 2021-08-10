@@ -17,12 +17,12 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 # RESEARCHES
 - Biometrics
   - Privacy Protection
-  - Liveness Detection
+  - Presentation Attack Detection
 - Multimedia Forensics and Security
   - Image Forensics
   - Data Hiding
   - Steganalysis
-- Image Recognition, Deep Learning
+- Image Recognition, Deep Learning, AI security
 
 
 * * *
