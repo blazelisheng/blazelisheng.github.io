@@ -63,7 +63,7 @@ Conference (selected)
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
 <th width="400">Artificial Intelligence Security Model and Testing Methods</th>
-<th width="400">National Natural Science Foundation of China Key Project</th> 
+<th width="400">National Natural Science Foundation of China, Key Project</th> 
 <th width="50">co-PI</th> 
 <th width="150">2021.1-2023.12</th> 
 </tr> 
@@ -78,6 +78,12 @@ Conference (selected)
 <th width="400">The National Key Research and Development Program of China</th> 
 <th width="50">co-PI</th> 
 <th width="150">2019.7-2022.6</th> 
+</tr>
+<tr> 
+<th width="400">Biometrics Data Protection based on Data Hiding</th>
+<th width="400">Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security, Key Project</th> 
+<th width="50">co-PI</th> 
+<th width="150">2019.1-2021.12</th> 
 </tr> 
 <tr> 
 <th width="400">Fingerprint Data Hiding and Disguising</th>
