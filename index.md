@@ -5,7 +5,7 @@ layout: default
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th width="120">
-<img src="/assets/images/Photo.jpg" width="120" height="150" /></th>
+<img src="/assets/images/photo.jpg" width="120" height="150" /></th>
   <th> <font size="4" color="Blue">  Sheng LI (李晟) </font><br/> <i>Associate Professor, </i> <br/><i>School of Computer Science, Fudan University</i><br/>Email: lisheng [at] fudan.edu.cn</th>
   </tr>
 </table>
