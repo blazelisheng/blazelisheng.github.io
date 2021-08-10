@@ -45,9 +45,9 @@ Journal (selected)
 
 Conference (selected)
 
-1.  _**S. Li**_, X. Zhu, G. Feng, X. Zhang, and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, ACM Multimedia, 2021 (too appear). 
-2. Z. You,  _**S. Li**_, Z. Qian*, and X. Zhang, Reversible Privacy-Preserving Recognition, IEEE International Conference on Multimedia and Expo (ICME), 2021.
-3. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, IEEE International Conference on Multimedia and Expo (ICME), 2021.
+1.  _**S. Li**_, X. Zhu, G. Feng, X. Zhang, and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, _ACM Multimedia_, 2021 (too appear). 
+2. Z. You,  _**S. Li**_, Z. Qian*, and X. Zhang, Reversible Privacy-Preserving Recognition, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
+3. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
 4. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
 5. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
 6.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
