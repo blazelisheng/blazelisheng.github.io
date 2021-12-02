@@ -45,15 +45,16 @@ Journal (selected)
 
 Conference (selected)
 
-1.  _**S. Li**_, X. Zhu, G. Feng, X. Zhang, and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, _ACM Multimedia_, 2021 (to appear). 
-2. Z. You,  _**S. Li**_, Z. Qian*, and X. Zhang, Reversible Privacy-Preserving Recognition, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
-3. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
-4. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
-5. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
-6.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
-7.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
-8.	_**S. Li***_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
-9.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
+1.  B. Zhang, _**S. Li***_, G. Feng, X. Zhang, and Z. Qian, Patch Diffusion: A General Module for Face Manipulation Detection, _AAAI_, 2022 (to appear). 
+2.  _**S. Li**_, X. Zhu, G. Feng, X. Zhang, and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, _ACM Multimedia_, 2021 (to appear). 
+3. Z. You,  _**S. Li**_, Z. Qian*, and X. Zhang, Reversible Privacy-Preserving Recognition, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
+4. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
+5. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
+6. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
+7.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
+8.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
+9.	_**S. Li***_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
+10.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
 
 [Back](./index.md)
 
