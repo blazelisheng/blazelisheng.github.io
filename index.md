@@ -39,11 +39,11 @@ Journal (selected)
 6.	_**S. Li***_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, vol. 17, no. 4, pp. 828-840, 1 July-Aug. 2020.
 7.	_**S. Li***_ and X. Zhang, Toward Construction Based Data Hiding: From Secrets to Fingerprint Images, _IEEE Transactions on Image Processing_, vol. 28, no. 3, pp. 1482-1497, March 2019. (ESI highly cited) [[Reported by IEEE Spectrum]](https://spectrum.ieee.org/tech-talk/telecom/security/how-to-encode-a-secret-message-into-a-fingerprint)
 8.	J. Tao, _**S. Li***_, X. Zhang and Z. Wang, Towards Robust Image Steganography, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 29, no. 2, pp. 594-600, Feb. 2019. (ESI highly cited)
-9.	Y. Wang, _S. Li_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
-10.	Y. Wang, _S. Li_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
-11.	_**S. Li***_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013.
-12.	_**S. Li***_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
-13.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
+9.	Y. Wang, _**S. Li**_, and A. C. Kot, On Branded Handbag Recognition, _IEEE Transactions on Multimedia_, 18 (9), pp. 1869-1881, 2016.
+10.	Y. Wang, _**S. Li**_, and A. C. Kot, Deepbag: Recognizing Handbag Models, _IEEE Transactions on Multimedia_, 17 (11), pp. 2072-2083, 2015.
+11.	_**S. Li**_ and A. C. Kot, Fingerprint Combination for Privacy Protection, _IEEE Transactions on Information Forensics and Security_, 8 (2), pp. 350-360, 2013.
+12.	_**S. Li**_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
+13.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
 
 Conference (selected)
 
