@@ -32,8 +32,8 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 
 Journal (selected)
 1. Y. Qiu, Q. Ying, Y. Yang, H. Zeng, _**S. Li***_, Z. Qian*, High-Capacity Framework for Reversible Data Hiding in Encrypted Image Using Pixel Prediction and Entropy Encoding, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2022.3163905.
-2. Q. Wang, _**S. Li**_, X. Zhang and G. Feng, Multi-granularity Brushstrokes Network for Universal Style Transfer, _ACM Transactions on Multimedia Computing, Communications, and Applications_, to appear.
-3. W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2021.3092004.
+2. Q. Wang, _**S. Li**_, X. Zhang and G. Feng, Multi-granularity Brushstrokes Network for Universal Style Transfer, _ACM Transactions on Multimedia Computing, Communications, and Applications_, vol. 18, issue. 4, no. 107, pp. 1-17, 2022.
+3. W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 32, no. 4, pp. 1955-1965, April 2022.
 4. X. Zhu, _**S. Li***_, X. Zhang, H. Li, and A. C. Kot, Detection of Spoofing Medium Contours for Face Anti-spoofing, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 31, no. 5, pp. 2039-2045, 2021.
 5. G. Feng, X. Zhang, Y. Ren, Z. Qian, and _**S. Li***_, Diversity-based Cascade Filters for JPEG Steganalysis, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 30, no. 2, pp. 376-386, 2020. (ESI highly cited)
 6.	_**S. Li***_, X. Zhang, Z. Qian, G. Feng and Y. Ren, Key Based Artificial Fingerprint Generation for Privacy Protection, _IEEE Transactions on Dependable and Secure Computing_, vol. 17, no. 4, pp. 828-840, 1 July-Aug. 2020.
