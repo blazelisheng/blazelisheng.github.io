@@ -136,7 +136,7 @@ Conference (selected)
 # SERVICES
 
 International Journal Guest Editor：
-1.	Mathematical Methods Applied in Explainable Fake Multimedia Detection, 2022 (Lead Guest Editor)
+1.	Mathematical Methods Applied in Explainable Fake Multimedia Detection, Mathematics, 2022 (Lead Guest Editor)
 2.	Low complexity methods for multimedia security, Multimedia Systems, 2019
 3.	Recent Advances in Deep Learning Model Security, Pattern Recognition Letters, 2021
 
