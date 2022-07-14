@@ -49,7 +49,7 @@ Conference (selected)
 
 1. Z. Yuan, Z. You, _**S. Li***_, Z. Qian*, X. Zhang, and A. C. Kot, On Generating Identifiable Virtual Faces, _ACM Multimedia_, 2022 (oral), to appear
 2. Z. You, Q. Ying, _**S. Li***_, Z. Qian*, and X. Zhang, Image Generation Network for Covert Transmission in Online Social Network,  _ACM Multimedia_, 2022, to appear
-3. P. Wei, _**S. Li**_, X. Zhang, Z. Qian, G. Luo, Q. ZhouGenerative Steganography Network, ACM Multimedia_, 2022, to appear
+3. P. Wei, _**S. Li**_, X. Zhang, Z. Qian, G. Luo, and Q. Zhou, Generative Steganography Network, _ACM Multimedia_, 2022, to appear
 4. G. Li, _**S. Li***_, Z. Qian, and X. Zhang, Encryption Resistant Deep Neural Network Watermarking, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)_, 22-27 May 2022, Singapore, accepted.
 5. S. Qi, _**S. Li**_, P. Wei, L. Ge, X. Zhang, Z. Qian, Joint Learning for Addressee Selection and Response Generation in Multi-Party Conversation, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)_, 22-27 May 2022, Singapore, accepted.
 6. L. Feng, _**S. Li**_, Z. Qian, and X. Zhang, Stealthy Backdoor Attack with Adversarial Training, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)_, 22-27 May 2022, Singapore, accepted.
