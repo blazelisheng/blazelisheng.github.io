@@ -166,7 +166,7 @@ Reviewer：
 <table border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
 <th>Toward Construction Based Data Hiding: From Secrets to Fingerprint Images</th> 
-<th>World Artificial Intelligence Conference, best paper nomination</th> 
+<th>World Artificial Intelligence Conference, Best paper nomination</th> 
 <th>2022</th> 
 </tr> 
 <tr> 
