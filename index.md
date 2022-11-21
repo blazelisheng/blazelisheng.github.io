@@ -31,7 +31,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
  _**corresponding author***_
 
 Journal (selected)
-1. Z. Zhu, P. Wei, Z. Qian*, _**S. Li***_, X. Zhang, Image Sanitization in Online Social Networks: A General Framework for Breaking Robust Information Hiding, _IEEE Transactions on Circuits and Systems for Video Technology_, accepted.
+1. Z. Zhu, P. Wei, Z. Qian*, _**S. Li***_, Image Sanitization in Online Social Networks: A General Framework for Breaking Robust Information Hiding, _IEEE Transactions on Circuits and Systems for Video Technology_, accepted.
 2. Y. Qiu, Q. Ying, Y. Yang, H. Zeng, _**S. Li***_, Z. Qian*, High-Capacity Framework for Reversible Data Hiding in Encrypted Image Using Pixel Prediction and Entropy Encoding, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2022.3163905.
 3. Q. Wang, _**S. Li**_, X. Zhang and G. Feng, Multi-granularity Brushstrokes Network for Universal Style Transfer, _ACM Transactions on Multimedia Computing, Communications, and Applications_, vol. 18, issue. 4, no. 107, pp. 1-17, 2022.
 4. W. Huan, _**S. Li***_, Z. Qian* and X. Zhang, Exploring Stable Coefficients on Joint Sub-bands for Robust Video Watermarking in DT CWT Domain, _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 32, no. 4, pp. 1955-1965, April 2022.
