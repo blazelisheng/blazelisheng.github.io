@@ -33,7 +33,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 Journal (selected)
 
 1. Q. Ying, H. Zhou, Z. Qian, _**S. Li**_ and X. Zhang, "Learning to Immunize Images for Tamper Localization and Self-Recovery," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3301958.
-2. _**S. Li**_, Z. Wang, X. Zhang and X. Zhang, Robust Image Steganography Against General Downsampling Operations with Lossless Secret Recovery,  _IEEE Transactions on Dependable and Secure Computing_, to appear.
+2. _**S. Li**_, Z. Wang, X. Zhang and X. Zhang, Robust Image Steganography Against General Downsampling Operations with Lossless Secret Recovery,  _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2023.3253691.
 3. Z. Zhu, P. Wei, Z. Qian, _**S. Li***_, X. Zhang, Image Sanitization in Online Social Networks: A General Framework for Breaking Robust Information Hiding, _IEEE Transactions on Circuits and Systems for Video Technology_, to apprear.
 4. Y. Qiu, Q. Ying, Y. Yang, H. Zeng, _**S. Li***_, Z. Qian*, High-Capacity Framework for Reversible Data Hiding in Encrypted Image Using Pixel Prediction and Entropy Encoding, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2022.3163905.
 5. Q. Wang, _**S. Li**_, X. Zhang and G. Feng, Multi-granularity Brushstrokes Network for Universal Style Transfer, _ACM Transactions on Multimedia Computing, Communications, and Applications_, vol. 18, issue. 4, no. 107, pp. 1-17, 2022.
@@ -51,15 +51,15 @@ Journal (selected)
 
 Conference (selected)
 
-1. Q. Ying, J. Liu, _**S. Li***_, H. Xu, Z. Qian* and X. Zhang,RetouchingFFHQ: A Large-scale Dataset for Fine-grained Face Retouching Detection, _ACM International Conference on Multimedia (MM)_, to appear.
-3. Z. Luo, _**S. Li***_, G. Li, Z. Qian and X. Zhang, Securing Fixed Neural Network Steganography, _ACM International Conference on Multimedia (MM)_，to appear.
-4. H. Wang, _**S. Li***_, S. Cao, R. Yang, J. Zeng, Z. Qian and X. Zhang, On Physically Occluded Fake Identity Document Detection, _ACM International Conference on Multimedia (MM)_, to appear.
-5. Q. Wang, _**S. Li***_, X. Zhang and G. Feng*, Rethinking Neural Style Transfer: Generating Personalized and Watermarked Stylized Images, _ACM International Conference on Multimedia (MM)_, to appear
-6. M. Zhang, G. Luo, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, VCMaster: Generating Diverse and Fluent Live Video Comments Based on Multimodal Contexts, _ACM International Conference on Multimedia (MM)_, to appear
-7. G. Liu, Y. Si, Z. Qian, X. Zhang, _**S. Li**_ and Wanli Peng “WRAP: Watermarking Approach Robust Against Film-coating upon Printed Photographs," _ACM International Conference on Multimedia (MM)_, to appear
-8. J. Tan, N. Zhong, Z. Qian, X. Zhang and _**S. Li**_, Deep Neural Network Watermarking against Model Extraction Attack, _ACM International Conference on Multimedia (MM)_, to appear
-9. X. Hu, Q. Ying, Z. Qian, _**S. Li**_ and X. Zhang, DRAW: Defending Camera-shooted RAW against Image Manipulation, _IEEE/CVF International Conference on Computer Vision (ICCV)_, to appear.
-10. G. Luo, M. Zhang, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, Forward Creation, Reverse Selection: Achieving Highly Pertinent Multimodal Responses in Dialogue Context, _ACM International Conference on Information & Knowledge Management (CIKM)_, to appear.
+1. Q. Ying, J. Liu, _**S. Li***_, H. Xu, Z. Qian* and X. Zhang,RetouchingFFHQ: A Large-scale Dataset for Fine-grained Face Retouching Detection, _ACM International Conference on Multimedia (MM)_, 2023.
+3. Z. Luo, _**S. Li***_, G. Li, Z. Qian and X. Zhang, Securing Fixed Neural Network Steganography, _ACM International Conference on Multimedia (MM)_，2023.
+4. H. Wang, _**S. Li***_, S. Cao, R. Yang, J. Zeng, Z. Qian and X. Zhang, On Physically Occluded Fake Identity Document Detection, _ACM International Conference on Multimedia (MM)_, 2023.
+5. Q. Wang, _**S. Li***_, X. Zhang and G. Feng*, Rethinking Neural Style Transfer: Generating Personalized and Watermarked Stylized Images, _ACM International Conference on Multimedia (MM)_, 2023.
+6. M. Zhang, G. Luo, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, VCMaster: Generating Diverse and Fluent Live Video Comments Based on Multimodal Contexts, _ACM International Conference on Multimedia (MM)_, 2023.
+7. G. Liu, Y. Si, Z. Qian, X. Zhang, _**S. Li**_ and Wanli Peng “WRAP: Watermarking Approach Robust Against Film-coating upon Printed Photographs," _ACM International Conference on Multimedia (MM)_, 2023.
+8. J. Tan, N. Zhong, Z. Qian, X. Zhang and _**S. Li**_, Deep Neural Network Watermarking against Model Extraction Attack, _ACM International Conference on Multimedia (MM)_, 2023.
+9. X. Hu, Q. Ying, Z. Qian, _**S. Li**_ and X. Zhang, DRAW: Defending Camera-shooted RAW against Image Manipulation, _IEEE/CVF International Conference on Computer Vision (ICCV)_, 2023.
+10. G. Luo, M. Zhang, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, Forward Creation, Reverse Selection: Achieving Highly Pertinent Multimodal Responses in Dialogue Context, _ACM International Conference on Information & Knowledge Management (CIKM)_, 2023.
 11. G. Li, _**S. Li***_, M. Li, X. Zhang*, Z. Qian, Steganography of Steganographic Networks, _AAAI_, 2023.
 12. Z. Yuan, Z. You, _**S. Li***_, Z. Qian*, X. Zhang, and A. C. Kot, On Generating Identifiable Virtual Faces, _ACM International Conference on Multimedia (MM)_, 2022 (oral).
 13. Z. You, Q. Ying, _**S. Li***_, Z. Qian*, and X. Zhang, Image Generation Network for Covert Transmission in Online Social Network,  _ACM International Conference on Multimedia (MM)_, 2022.
