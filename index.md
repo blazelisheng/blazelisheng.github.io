@@ -32,7 +32,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 
 Journal (selected)
 
-1. Q. Ying, H. Zhou, Z. Qian, _**S. Li**_ and X. Zhang, "Learning to Immunize Images for Tamper Localization and Self-Recovery," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3301958.
+1. Q. Ying, H. Zhou, Z. Qian, _**S. Li**_ and X. Zhang, Learning to Immunize Images for Tamper Localization and Self-Recovery, _IEEE Transactions on Pattern Analysis and Machine Intelligence_, doi: 10.1109/TPAMI.2023.3301958.
 2. _**S. Li**_, Z. Wang, X. Zhang and X. Zhang, Robust Image Steganography Against General Downsampling Operations with Lossless Secret Recovery,  _IEEE Transactions on Dependable and Secure Computing_, doi: 10.1109/TDSC.2023.3253691.
 3. Z. Zhu, P. Wei, Z. Qian, _**S. Li***_, X. Zhang, Image Sanitization in Online Social Networks: A General Framework for Breaking Robust Information Hiding, _IEEE Transactions on Circuits and Systems for Video Technology_, to apprear.
 4. Y. Qiu, Q. Ying, Y. Yang, H. Zeng, _**S. Li***_, Z. Qian*, High-Capacity Framework for Reversible Data Hiding in Encrypted Image Using Pixel Prediction and Entropy Encoding, _IEEE Transactions on Circuits and Systems for Video Technology_, doi: 10.1109/TCSVT.2022.3163905.
