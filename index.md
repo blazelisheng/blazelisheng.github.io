@@ -51,37 +51,37 @@ Journal (selected)
 
 Conference (selected)
 
-1.Q. Ying, J. Liu, _**S. Li***_, H. Xu, Z. Qian* and X. Zhang,RetouchingFFHQ: A Large-scale Dataset for Fine-grained Face Retouching Detection, _ACM International Conference on Multimedia (MM)_, to appear.
-2. Z. Luo, _**S. Li***_, G. Li, Z. Qian and X. Zhang, Securing Fixed Neural Network Steganography, _ACM International Conference on Multimedia (MM)_，to appear.
-3. H. Wang, _**S. Li***_, S. Cao, R. Yang, J. Zeng, Z. Qian and X. Zhang, On Physically Occluded Fake Identity Document Detection, _ACM International Conference on Multimedia (MM)_, to appear.
-4. Q. Wang, _**S. Li***_, X. Zhang and G. Feng*, Rethinking Neural Style Transfer: Generating Personalized and Watermarked Stylized Images, _ACM International Conference on Multimedia (MM)_, to appear
-5. M. Zhang, G. Luo, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, VCMaster: Generating Diverse and Fluent Live Video Comments Based on Multimodal Contexts, _ACM International Conference on Multimedia (MM)_, to appear
-6. G. Liu, Y. Si, Z. Qian, X. Zhang, _**S. Li**_ and Wanli Peng “WRAP: Watermarking Approach Robust Against Film-coating upon Printed Photographs," _ACM International Conference on Multimedia (MM)_, to appear
-7. J. Tan, N. Zhong, Z. Qian, X. Zhang and _**S. Li**_, Deep Neural Network Watermarking against Model Extraction Attack, _ACM International Conference on Multimedia (MM)_, to appear
-8. X. Hu, Q. Ying, Z. Qian, _**S. Li**_ and X. Zhang, DRAW: Defending Camera-shooted RAW against Image Manipulation, _IEEE/CVF International Conference on Computer Vision (ICCV)_, to appear.
-9. G. Luo, M. Zhang, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, Forward Creation, Reverse Selection: Achieving Highly Pertinent Multimodal Responses in Dialogue Context, _ACM International Conference on Information & Knowledge Management (CIKM)_, to appear.
-10. G. Li, _**S. Li***_, M. Li, X. Zhang*, Z. Qian, Steganography of Steganographic Networks, _AAAI_, 2023.
-11. Z. Yuan, Z. You, _**S. Li***_, Z. Qian*, X. Zhang, and A. C. Kot, On Generating Identifiable Virtual Faces, _ACM International Conference on Multimedia (MM)_, 2022 (oral).
-12. Z. You, Q. Ying, _**S. Li***_, Z. Qian*, and X. Zhang, Image Generation Network for Covert Transmission in Online Social Network,  _ACM International Conference on Multimedia (MM)_, 2022.
-13. P. Wei, _**S. Li**_, X. Zhang, Z. Qian, G. Luo, and Q. Zhou, Generative Steganography Network, _ACM International Conference on Multimedia (MM)_, 2022.
-14. B. Zhang, _**S. Li***_, G. Feng, X. Zhang, and Z. Qian, Patch Diffusion: A General Module for Face Manipulation Detection, _AAAI_, 2022. 
-15. L. Feng, _**S. Li**_, Z. Qian, and X. Zhang, Unlabeled Backdoor Poisoning in Semi-Supervised Learning, _IEEE International Conference on Multimedia(ICME)_, 2022.
-16. P. Wei, G. Luo, Q. Song, X. Zhang, Z. Qian, and _**S. Li**_, Generative Steganographic Flow, _IEEE International Conference on Multimedia (ICME)_, 2022.
-17. K. Chen, X. Zeng, Q. Ying, _**S. Li**_, Z. Qian, and X. Zhang, Invertible Image Dataset Protection, _IEEE International Conference on Multimedia (ICME)_, 2022.
-18. G. Li, _**S. Li***_, Z. Qian, and X. Zhang, Encryption Resistant Deep Neural Network Watermarking, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
-19. S. Qi, _**S. Li**_, P. Wei, L. Ge, X. Zhang, Z. Qian, Joint Learning for Addressee Selection and Response Generation in Multi-Party Conversation, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
-20. L. Feng, _**S. Li**_, Z. Qian and X. Zhang, Stealthy Backdoor Attack with Adversarial Training, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
-21. G. Luo, P. Wei, S. Zhu, X. Zhang, Z. Qian and _**S. Li**_, Image Steganalysis with Convolutional Vision Transformer, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
-22. M. Li, N. Zhong, X. Zhang, Z. Qian and _**S. Li**_, Object-Oriented Backdoor Attack Against Image Captioning, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
-23. _**S. Li**_, X. Zhu, G. Feng, X. Zhang and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, _ACM International Conference on Multimedia (MM)_, 2021. 
-24. Z. You,  _**S. Li**_, Z. Qian* and X. Zhang, Reversible Privacy-Preserving Recognition, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
-25. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
-26. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
-27. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
-28.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
-29.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
-30.	_**S. Li***_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
-31.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
+1. Q. Ying, J. Liu, _**S. Li***_, H. Xu, Z. Qian* and X. Zhang,RetouchingFFHQ: A Large-scale Dataset for Fine-grained Face Retouching Detection, _ACM International Conference on Multimedia (MM)_, to appear.
+3. Z. Luo, _**S. Li***_, G. Li, Z. Qian and X. Zhang, Securing Fixed Neural Network Steganography, _ACM International Conference on Multimedia (MM)_，to appear.
+4. H. Wang, _**S. Li***_, S. Cao, R. Yang, J. Zeng, Z. Qian and X. Zhang, On Physically Occluded Fake Identity Document Detection, _ACM International Conference on Multimedia (MM)_, to appear.
+5. Q. Wang, _**S. Li***_, X. Zhang and G. Feng*, Rethinking Neural Style Transfer: Generating Personalized and Watermarked Stylized Images, _ACM International Conference on Multimedia (MM)_, to appear
+6. M. Zhang, G. Luo, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, VCMaster: Generating Diverse and Fluent Live Video Comments Based on Multimodal Contexts, _ACM International Conference on Multimedia (MM)_, to appear
+7. G. Liu, Y. Si, Z. Qian, X. Zhang, _**S. Li**_ and Wanli Peng “WRAP: Watermarking Approach Robust Against Film-coating upon Printed Photographs," _ACM International Conference on Multimedia (MM)_, to appear
+8. J. Tan, N. Zhong, Z. Qian, X. Zhang and _**S. Li**_, Deep Neural Network Watermarking against Model Extraction Attack, _ACM International Conference on Multimedia (MM)_, to appear
+9. X. Hu, Q. Ying, Z. Qian, _**S. Li**_ and X. Zhang, DRAW: Defending Camera-shooted RAW against Image Manipulation, _IEEE/CVF International Conference on Computer Vision (ICCV)_, to appear.
+10. G. Luo, M. Zhang, Y. Ma, _**S. Li**_, Z. Qian and X. Zhang, Forward Creation, Reverse Selection: Achieving Highly Pertinent Multimodal Responses in Dialogue Context, _ACM International Conference on Information & Knowledge Management (CIKM)_, to appear.
+11. G. Li, _**S. Li***_, M. Li, X. Zhang*, Z. Qian, Steganography of Steganographic Networks, _AAAI_, 2023.
+12. Z. Yuan, Z. You, _**S. Li***_, Z. Qian*, X. Zhang, and A. C. Kot, On Generating Identifiable Virtual Faces, _ACM International Conference on Multimedia (MM)_, 2022 (oral).
+13. Z. You, Q. Ying, _**S. Li***_, Z. Qian*, and X. Zhang, Image Generation Network for Covert Transmission in Online Social Network,  _ACM International Conference on Multimedia (MM)_, 2022.
+14. P. Wei, _**S. Li**_, X. Zhang, Z. Qian, G. Luo, and Q. Zhou, Generative Steganography Network, _ACM International Conference on Multimedia (MM)_, 2022.
+15. B. Zhang, _**S. Li***_, G. Feng, X. Zhang, and Z. Qian, Patch Diffusion: A General Module for Face Manipulation Detection, _AAAI_, 2022. 
+16. L. Feng, _**S. Li**_, Z. Qian, and X. Zhang, Unlabeled Backdoor Poisoning in Semi-Supervised Learning, _IEEE International Conference on Multimedia(ICME)_, 2022.
+17. P. Wei, G. Luo, Q. Song, X. Zhang, Z. Qian, and _**S. Li**_, Generative Steganographic Flow, _IEEE International Conference on Multimedia (ICME)_, 2022.
+18. K. Chen, X. Zeng, Q. Ying, _**S. Li**_, Z. Qian, and X. Zhang, Invertible Image Dataset Protection, _IEEE International Conference on Multimedia (ICME)_, 2022.
+19. G. Li, _**S. Li***_, Z. Qian, and X. Zhang, Encryption Resistant Deep Neural Network Watermarking, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
+20. S. Qi, _**S. Li**_, P. Wei, L. Ge, X. Zhang, Z. Qian, Joint Learning for Addressee Selection and Response Generation in Multi-Party Conversation, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
+21. L. Feng, _**S. Li**_, Z. Qian and X. Zhang, Stealthy Backdoor Attack with Adversarial Training, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
+22. G. Luo, P. Wei, S. Zhu, X. Zhang, Z. Qian and _**S. Li**_, Image Steganalysis with Convolutional Vision Transformer, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
+23. M. Li, N. Zhong, X. Zhang, Z. Qian and _**S. Li**_, Object-Oriented Backdoor Attack Against Image Captioning, _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022.
+24. _**S. Li**_, X. Zhu, G. Feng, X. Zhang and Z. Qian, Diffusing the Liveness Cues for Face Anti-spoofing, _ACM International Conference on Multimedia (MM)_, 2021. 
+25. Z. You,  _**S. Li**_, Z. Qian* and X. Zhang, Reversible Privacy-Preserving Recognition, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
+26. M. Shi,  _**S. Li**_, Z. Yin, X. Zhang* and Z. Qian, On Generating JPEG Adversarial Images, _IEEE International Conference on Multimedia and Expo (ICME)_, 2021.
+27. H. Zhan, _**S. Li**_ and A. C. Kot, Tagging the Shoe Images by Semantic Attributes, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 892-895.
+28. Y. Wang, _**S. Li**_ and A. C. Kot, Quality Guided Handbag Segmentation, _IEEE International Conference on Digital Signal Processing (DSP)_, Singapore, 2015, pp. 896-900. 
+29.	Y. Wang, _**S. Li**_ and A. C. Kot, Joint Learning for Image-based Handbag Recommendation, _IEEE International Conference on Multimedia and Expo (ICME)_, Turin, 2015, pp. 1-6. 
+30.	Y. Wang, _**S. Li**_ and A. C. Kot, Complementary Feature Extraction for Branded Handbag Recognition, _IEEE International Conference on Image Processing (ICIP)_, Paris, 2014, pp. 5896-5900.
+31.	_**S. Li***_ and A. C. Kot, Attack Using Reconstructed Fingerprint, _IEEE International Workshop on Information Forensics and Security (WIFS)_, Iguacu Falls, 2011, pp. 1-6. [**Best Student Paper Silver Award**]
+32.	_**S. Li***_ and A. C. Kot, Privacy Protection of Fingerprint Database Using Lossless Data Hiding, _IEEE International Conference on Multimedia and Expo (ICME)_, Suntec City, 2010, pp. 1293-1298.
 
 [Back](./index.md)
 
