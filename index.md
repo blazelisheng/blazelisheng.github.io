@@ -28,7 +28,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 * * *
 
 # PUBLICATIONS
- _**corresponding author***_,  _**equal contribution**+_
+ _**corresponding author***_,  _**equal contribution**^#_
 
 Journal (selected)
 
@@ -54,7 +54,7 @@ Journal (selected)
 
 Conference (selected)
 
-1. G. Li+,  _**S. Li**+_, Z. Luo, Z. Qian and X. Zhang. Purified and Unified Steganographic Network,  _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2024.
+1. G. Li^#,  _**S. Li**^#_, Z. Luo, Z. Qian and X. Zhang. Purified and Unified Steganographic Network,  _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2024.
 2. Q. Ying, J. Liu, _**S. Li***_, H. Xu, Z. Qian* and X. Zhang,RetouchingFFHQ: A Large-scale Dataset for Fine-grained Face Retouching Detection, _ACM International Conference on Multimedia (MM)_, 2023.
 3. Z. Luo, _**S. Li***_, G. Li, Z. Qian and X. Zhang, Securing Fixed Neural Network Steganography, _ACM International Conference on Multimedia (MM)_，2023.
 4. H. Wang, _**S. Li***_, S. Cao, R. Yang, J. Zeng, Z. Qian and X. Zhang, On Physically Occluded Fake Identity Document Detection, _ACM International Conference on Multimedia (MM)_, 2023.
