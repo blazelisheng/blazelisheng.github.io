@@ -32,7 +32,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 
 Journal (selected)
 
-1. X. Hu, S. Li, Q. Ying, W. Peng, X. Zhang and Z. Qian, Establishing Robust Generative Image Steganography via Popular Stable Diffusion, _IEEE Transactions on Information Forensics and Security_, too appear.
+1. X. Hu, _**S. Li**_, Q. Ying, W. Peng, X. Zhang and Z. Qian, Establishing Robust Generative Image Steganography via Popular Stable Diffusion, _IEEE Transactions on Information Forensics and Security_, too appear.
 2. Z. Wang, _**S. Li**_, X. Zhang and G. Feng, Exploring Abnormal Behavior in Swarm: Identify User Using Adversarial Examples, _IEEE Transactions on Emerging Topics in Computational Intelligence_, vol. 7, no. 1, pp. 250-260, Feb. 2023.
 3. W. Peng, _**S. Li**_, Z. Qian and X. Zhang, Text Steganalysis Based on Hierarchical Supervised Learning and Dual Attention Mechanism, _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, vol. 31, pp. 3513-3526, 2023.
 4. Q. Wang, _**S. Li**_, Z. Wang, X. Zhang and G. Feng, Multi-source Style Transfer via Style Disentanglement Network, _IEEE Transactions on Multimedia_, doi: 10.1109/TMM.2023.3281087.
