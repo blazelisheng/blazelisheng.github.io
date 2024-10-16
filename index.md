@@ -55,7 +55,7 @@ Journal (selected)
 
 Conference (selected)
 
-1. J. Huang, Z. Guo, G. Luo, Z. Qian, _**S. Li**_, X. Zhang, Disentangled Style Domain for Implicit $z$-Watermark Towards Copyright Protection, The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+1. J. Huang, Z. Guo, G. Luo, Z. Qian, _**S. Li**_, and X. Zhang, Disentangled Style Domain for Implicit z-Watermark Towards Copyright Protection, _The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)_, 2024.
 2. M. Wang, G. Hua, _**S. Li***_, and G. Feng, A Key-Driven Framework for Identity-Preserving Face Anonymization, _Network and Distributed System Security Symposium (NDSS)_, 2025.
 3. G. Luo, Y. Ma, M. Zhang, J. Huang, _**S. Li**_, Z. Qian, X. Zhang, Engaging Live Video Comments Generation, _ACM International Conference on Multimedia (MM)_，2024.
 4. X. Mao, X. Hu, W. Peng, Z. Gan, Z. Qian, X. Zhang, _**S. Li**_, From Covert Hiding To Visual Editing: Robust Generative Video Steganography, _ACM International Conference on Multimedia (MM)_，2024.
