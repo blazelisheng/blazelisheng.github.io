@@ -98,7 +98,7 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 [Back](./index.md)
 
 * * *
-# 基金
+# 研究基金
 
 <table border="0" cellspacing="0" cellpadding="0">
 
