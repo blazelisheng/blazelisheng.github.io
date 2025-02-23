@@ -14,7 +14,7 @@ layout: default
 I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently an Associate Professor with the School of Computer Science, Fudan University, China. I am a recipient of the IEEE WIFS Best Student Paper Silver Award.
 
 * * *
-# RESEARCH
+# 研究方向
 - Biometrics
   - Privacy Protection
   - Presentation Attack Detection
@@ -27,10 +27,10 @@ I received the Ph.D. degree from the School of Electrical and Electronic Enginee
 
 * * *
 
-# PUBLICATIONS
+# 论文成果
  _**corresponding author***_,  _**equal contribution**#_
 
-Journal (selected)
+期刊 (部分)
 
 1. X. Hu, _**S. Li**_, Q. Ying, W. Peng, X. Zhang and Z. Qian, Establishing Robust Generative Image Steganography via Popular Stable Diffusion, _IEEE Transactions on Information Forensics and Security_, too appear.
 2. Z. Wang, _**S. Li**_, X. Zhang and G. Feng, Exploring Abnormal Behavior in Swarm: Identify User Using Adversarial Examples, _IEEE Transactions on Emerging Topics in Computational Intelligence_, vol. 7, no. 1, pp. 250-260, Feb. 2023.
@@ -53,7 +53,7 @@ Journal (selected)
 19.	_**S. Li**_ and A. C. Kot, An Improved Scheme for Full Fingerprint Reconstruction, _IEEE Transactions on Information Forensics and Security_, 7 (6), pp. 1906 – 1912, 2012. 
 20.	_**S. Li**_ and A. C. Kot, Privacy Protection of Fingerprint Database, _IEEE Signal Processing Letters_, 18 (2), pp. 115-118, 2011.
 
-Conference (selected)
+会议 (部分)
 
 1. J. Huang, Z. Guo, G. Luo, Z. Qian, _**S. Li**_, and X. Zhang, Disentangled Style Domain for Implicit z-Watermark Towards Copyright Protection, _The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)_, 2024.
 2. M. Wang, G. Hua, _**S. Li***_, and G. Feng, A Key-Driven Framework for Identity-Preserving Face Anonymization, _Network and Distributed System Security Symposium (NDSS)_, 2025.
@@ -98,7 +98,7 @@ Conference (selected)
 [Back](./index.md)
 
 * * *
-# FUNDINGS
+# 基金
 
 <table border="0" cellspacing="0" cellpadding="0">
 
@@ -162,7 +162,7 @@ Conference (selected)
 [Back](./index.md)
 
 * * *
-# SERVICES
+# 学术任职
 
 International Journal Guest Editor：
 1.	Mathematical Methods Applied in Explainable Fake Multimedia Detection, Mathematics, 2022 (Lead Guest Editor)
@@ -184,7 +184,7 @@ Reviewer：
 
 * * *
 
-# AWARDS
+# 学术奖项
 
 
 <table border="0" cellspacing="0" cellpadding="0"> 
