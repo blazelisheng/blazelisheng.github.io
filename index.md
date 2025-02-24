@@ -10,7 +10,7 @@ layout: default
   </tr>
 </table>
 
-我于2013年获得新加坡南洋理工大学电子与电气工程学院的博士学位，导师为[Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/)。2013年至2016年，我在南洋理工大学的Rapid Rich Object Search Lab担任研究员。目前担任复旦大学计算机科学技术学院的副教授。曾荣获IEEE WIFS最佳学生论文银奖
+我于2013年获得新加坡南洋理工大学电子与电气工程学院的博士学位，导师为[Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/)。2013年至2016年，我在南洋理工大学的Rapid Rich Object Search Lab担任研究员。目前担任复旦大学计算机科学技术学院的副教授。曾荣获IEEE WIFS最佳学生论文银奖。
 * * *
 # 研究方向
 - Biometrics
