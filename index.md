@@ -10,9 +10,7 @@ layout: default
   </tr>
 </table>
 
-
-I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently an Associate Professor with the School of Computer Science, Fudan University, China. I am a recipient of the IEEE WIFS Best Student Paper Silver Award.
-
+我于2013年获得新加坡南洋理工大学电子与电气工程学院的博士学位，导师为[Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/)。2013年至2016年，我在南洋理工大学的Rapid Rich Object Search Lab担任研究员。目前担任复旦大学计算机科学技术学院的副教授。曾荣获IEEE WIFS最佳学生论文银奖
 * * *
 # 研究方向
 - Biometrics
