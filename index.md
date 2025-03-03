@@ -102,45 +102,45 @@ layout: default
 <tr> 
 <th width="400">xxxx虚假证件检测</th>
 <th width="400">阿里巴巴创新研究计划</th> 
-<th width="50">项目负责人</th> 
-<th width="150">2022.3-2023.3</th> 
+<th width="100">项目负责人</th> 
+<th width="100">2022.3-2023.3</th> 
 </tr> 
   
 <tr> 
 <th width="400">产品外包装水印</th>
 <th width="400">上海驰亚科技</th> 
-<th width="50">项目负责人</th> 
-<th width="150">2022.1-2022.7</th> 
+<th width="100">项目负责人</th> 
+<th width="100">2022.1-2022.7</th> 
 </tr> 
 <tr> 
 <th width="400">人工智能模型安全和测试方法</th>
 <th width="400">国家自然基金联合重点项目</th> 
-<th width="50">子课题负责人</th> 
-<th width="150">2021.1-2023.12</th> 
+<th width="100">子课题负责人</th> 
+<th width="100">2021.1-2023.12</th> 
 </tr> 
 <tr> 
 <th width="400">面向社交网络的稳健数字图像隐写</th>
 <th width="400">国家自然科学基金面上项目</th> 
-<th width="50">项目负责人</th> 
-<th width="150">2021.1-2023.12</th> 
+<th width="100">项目负责人</th> 
+<th width="100">2021.1-2023.12</th> 
 </tr> 
 <tr> 
 <th width="400">xxx保护方法</th>
 <th width="400">国家重点研发计划</th> 
-<th width="50">子课题负责人</th> 
-<th width="150">2019.7-2022.6</th> 
+<th width="100">子课题负责人</th> 
+<th width="100">2019.7-2022.6</th> 
 </tr>
 <tr> 
 <th width="400">基于信息隐藏的生物特征保护</th>
 <th width="400">广西多源数据挖掘与安全实验室重点基金</th> 
-<th width="50">项目负责人</th> 
-<th width="150">2019.1-2021.12</th> 
+<th width="100">项目负责人</th> 
+<th width="100">2019.1-2021.12</th> 
 </tr> 
 <tr> 
 <th width="400">面向指纹载体的信息隐藏和伪装</th>
 <th width="400">国家自然科学基金青年项目</th> 
-<th width="50">项目负责人</th> 
-<th width="150">2017.1-2019.12</th> 
+<th width="100">项目负责人</th> 
+<th width="100">2017.1-2019.12</th> 
 </tr> 
 <tr> 
 <th width="400">生物特征伪装技术研究</th>
