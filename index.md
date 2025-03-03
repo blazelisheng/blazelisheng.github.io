@@ -95,64 +95,58 @@ layout: default
 [Back](./index.md)
 
 * * *
-# 研究基金
+# 科研项目
 
 <table border="0" cellspacing="0" cellpadding="0">
 
 <tr> 
-<th width="400">xxxxFake Certificate Detection</th>
-<th width="400">Alibaba Innovative Research (AIR) Program Supported by Alibaba Group</th> 
-<th width="50">PI</th> 
+<th width="400">xxxx虚假证件检测</th>
+<th width="400">阿里巴巴创新研究计划</th> 
+<th width="50">项目负责人</th> 
 <th width="150">2022.3-2023.3</th> 
 </tr> 
   
 <tr> 
-<th width="400">Package Watermarking</th>
-<th width="400">SIIA Tech Research Project</th> 
-<th width="50">PI</th> 
+<th width="400">产品外包装水印</th>
+<th width="400">上海驰亚科技</th> 
+<th width="50">项目负责人</th> 
 <th width="150">2022.1-2022.7</th> 
 </tr> 
 <tr> 
-<th width="400">Artificial Intelligence Security Model and Testing Methods</th>
-<th width="400">National Natural Science Foundation of China, Key Project</th> 
-<th width="50">co-PI</th> 
+<th width="400">人工智能模型安全和测试方法</th>
+<th width="400">国家自然基金联合重点项目</th> 
+<th width="50">子课题负责人</th> 
 <th width="150">2021.1-2023.12</th> 
 </tr> 
 <tr> 
-<th width="400">Robust Image Steganography for Social Networks</th>
-<th width="400">National Natural Science Foundation of China</th> 
-<th width="50">PI</th> 
+<th width="400">面向社交网络的稳健数字图像隐写</th>
+<th width="400">国家自然科学基金面上项目</th> 
+<th width="50">项目负责人</th> 
 <th width="150">2021.1-2023.12</th> 
 </tr> 
 <tr> 
-<th width="400">xxxProtection Methods</th>
-<th width="400">The National Key Research and Development Program of China</th> 
-<th width="50">co-PI</th> 
+<th width="400">xxx保护方法</th>
+<th width="400">国家重点研发计划</th> 
+<th width="50">子课题负责人</th> 
 <th width="150">2019.7-2022.6</th> 
 </tr>
 <tr> 
-<th width="400">Biometrics Data Protection based on Data Hiding</th>
-<th width="400">Research Fund of Guangxi Key Lab of Multi-source Information Mining & Security, Key Project</th> 
-<th width="50">PI</th> 
+<th width="400">基于信息隐藏的生物特征保护</th>
+<th width="400">广西多源数据挖掘与安全实验室重点基金</th> 
+<th width="50">项目负责人</th> 
 <th width="150">2019.1-2021.12</th> 
 </tr> 
 <tr> 
-<th width="400">Fingerprint Data Hiding and Disguising</th>
-<th width="400">National Natural Science Foundation of China</th> 
-<th width="50">PI</th> 
+<th width="400">面向指纹载体的信息隐藏和伪装</th>
+<th width="400">国家自然科学基金青年项目</th> 
+<th width="50">项目负责人</th> 
 <th width="150">2017.1-2019.12</th> 
 </tr> 
 <tr> 
-<th width="400">Biometrics Disguising</th>
-<th>Shanghai Sailing Program</th> 
-<th>PI</th> 
+<th width="400">生物特征伪装技术研究</th>
+<th>上海市科委扬帆计划</th> 
+<th>项目负责人</th> 
 <th>2016.6-2019.5</th> 
-</tr> 
-<tr> 
-<th width="400">Biometrics Security</th>
-<th>Shanghai Young Oriental Scholar</th> 
-<th>PI</th> 
-<th>2015-2018</th> 
 </tr> 
 </table>
 
