@@ -10,17 +10,16 @@ layout: default
   </tr>
 </table>
 
-我于2013年获得新加坡南洋理工大学电子与电气工程学院的博士学位，导师为[Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/)。2013年至2016年，我在南洋理工大学的Rapid Rich Object Search Lab担任研究员。目前担任复旦大学计算机科学技术学院的副教授。曾荣获IEEE WIFS最佳学生论文银奖。
+个人简介：复旦大学副教授、博导。主要研究方向为多媒体内容安全、人工智能安全，在知名国际期刊和会议如IEEE TPAMI、IEEE TIP、IEEE TIFS、IEEE TDSC、NDSS、NeurIPS、CVPR、ICCV等发表论文 100 余篇。获得了上海市科技进步二等奖、中国科技产业化促进会科技创新二等奖，以及IEEE WIFS、IEEE MMSP、世界人工智能大会等多个会议的最佳论文奖或提名奖。主持了国家自然科学基金面上/青年项目、国家重点研发计划子课题、国家自然科学基金重点项目子课题等国家级项目，以及上海市青年科技英才扬帆计划、阿里巴巴创新研究计划、CCF-蚂蚁专项基金等省部级和企业合作项目，研究成果被IEEE Spectrum等国际知名科技媒体专题报道。
 * * *
 # 研究方向
-- Biometrics
-  - Privacy Protection
-  - Presentation Attack Detection
-- Multimedia Forensics and Security
-  - Image Forensics
-  - Data Hiding
-  - Steganalysis
-- Image Recognition, Deep Learning, AI security
+- 多媒体内容安全
+  - 多媒体真伪检测
+  - 多媒体水印
+  - 多媒体隐私保护
+- 人工智能安全
+  - 大模型安全
+  - 对抗样本、模型隐藏、模型后门
 
 
 * * *
