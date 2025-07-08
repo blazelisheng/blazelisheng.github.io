@@ -53,12 +53,12 @@ layout: default
 
 会议 (部分)
 
-1. S. Dai, X. Liang, S. Li, Z. Qian, X. Zhang, Safe-BVAR: Text-to-Image Generative Watermarking for Bitwise Visual AutoRegressive Model, _ACM International Conference on Multimedia (MM)_, to appear
+1. S. Dai, X. Liang, _**S. Li**_, Z. Qian, X. Zhang, Safe-BVAR: Text-to-Image Generative Watermarking for Bitwise Visual AutoRegressive Model, _ACM International Conference on Multimedia (MM)_, to appear
 2. C. Wei, H. Wang, Z. Qian, _**S. Li***_, X. Zhang, J. liu, Learning Discrepant Transformations for Face Privacy Protection, _ACM International Conference on Multimedia (MM)_, to appear
-3. Y. Zhu, H. Wang, Z. Qian,  _**S. Li***_, X. Zhang, J. liu, Towards Generalized Physical Occlusion Detection On Documents, _ACM International Conference on Multimedia (MM)_, to appear
-4. C. Rao, G. Liu, S. Li, X. Zhang, Z. Qian, DynMark: A Robust Watermarking Solution for Dynamic Screen Content with Small-size Screenshot Support,  _ACM International Conference on Multimedia (MM)_, to appear.
-5. J. Liu, Q. Ying, Z. Qian,  _**S. Li***_, R. Zhang, J. liu, X. Zhang, MoFRR: Mixture of Diffusion Models for Face Retouching Restoration, _IEEE/CVF International Conference on Computer Vision (ICCV)_, to appear.
-6. G. Liu, S. Cao, Z. Qian, X. Zhang,  _**S. Li**_ and W. Peng, Watermarking One for All: A Robust Watermarking Scheme Against Partial Image Theft,  _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025.
+3. Y. Zhu, H. Wang, Z. Qian, _**S. Li***_, X. Zhang, J. liu, Towards Generalized Physical Occlusion Detection On Documents, _ACM International Conference on Multimedia (MM)_, to appear
+4. C. Rao, G. Liu, _**S. Li**_, X. Zhang, Z. Qian, DynMark: A Robust Watermarking Solution for Dynamic Screen Content with Small-size Screenshot Support, _ACM International Conference on Multimedia (MM)_, to appear.
+5. J. Liu, Q. Ying, Z. Qian, _**S. Li***_, R. Zhang, J. liu, X. Zhang, MoFRR: Mixture of Diffusion Models for Face Retouching Restoration, _IEEE/CVF International Conference on Computer Vision (ICCV)_, to appear.
+6. G. Liu, S. Cao, Z. Qian, X. Zhang, _**S. Li**_ and W. Peng, Watermarking One for All: A Robust Watermarking Scheme Against Partial Image Theft, _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2025.
 7. M. Wang, G. Hua, _**S. Li***_, and G. Feng, A Key-Driven Framework for Identity-Preserving Face Anonymization, _Network and Distributed System Security Symposium (NDSS)_, 2025.
 8. J. Huang, Z. Guo, G. Luo, Z. Qian, _**S. Li**_, and X. Zhang, Disentangled Style Domain for Implicit z-Watermark Towards Copyright Protection, _The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)_, 2024.
 9. G. Luo, Y. Ma, M. Zhang, J. Huang, _**S. Li**_, Z. Qian, X. Zhang, Engaging Live Video Comments Generation, _ACM International Conference on Multimedia (MM)_，2024.
