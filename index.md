@@ -114,7 +114,7 @@ layout: default
 </tr> 
 
 <tr> 
-<th width="400">核身场景大模型身份信息隐私保护</th>
+<th width="400">数字文创资产权属管理及服务网络</th>
 <th width="400">国家重点研发计划</th> 
 <th width="100">子课题负责人</th> 
 <th width="100">2024.1-2026.12</th> 
