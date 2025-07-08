@@ -57,8 +57,8 @@ Journal (selected)
 Conference (selected)
 
 1. S. Dai, X. Liang, _**S. Li**_, Z. Qian, X. Zhang, Safe-BVAR: Text-to-Image Generative Watermarking for Bitwise Visual AutoRegressive Model, ACM International Conference on Multimedia (MM), to appear
-2. C. Wei, H. Wang, Z. Qian, S. Li*, X. Zhang, J. liu, Learning Discrepant Transformations for Face Privacy Protection, ACM International Conference on Multimedia (MM), to appear
-3. Y. Zhu, H. Wang, Z. Qian, S. Li*, X. Zhang, J. liu, Towards Generalized Physical Occlusion Detection On Documents, ACM International Conference on Multimedia (MM), to appear
+2. C. Wei, H. Wang, Z. Qian, _**S. Li***_, X. Zhang, J. liu, Learning Discrepant Transformations for Face Privacy Protection, ACM International Conference on Multimedia (MM), to appear
+3. Y. Zhu, H. Wang, Z. Qian, _**S. Li***_, X. Zhang, J. liu, Towards Generalized Physical Occlusion Detection On Documents, ACM International Conference on Multimedia (MM), to appear
 4. C. Rao, G. Liu, _**S. Li**_, X. Zhang, Z. Qian, DynMark: A Robust Watermarking Solution for Dynamic Screen Content with Small-size Screenshot Support, ACM International Conference on Multimedia (MM), to appear.
 5. J. Liu, Q. Ying, Z. Qian, _**S. Li***_, R. Zhang, J. liu, X. Zhang, MoFRR: Mixture of Diffusion Models for Face Retouching Restoration, IEEE/CVF International Conference on Computer Vision (ICCV), to appear.
 6. G. Liu, S. Cao, Z. Qian, X. Zhang, _**S. Li**_ and W. Peng, Watermarking One for All: A Robust Watermarking Scheme Against Partial Image Theft, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
