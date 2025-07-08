@@ -110,6 +110,20 @@ Conference (selected)
 <table border="0" cellspacing="0" cellpadding="0">
 
 <tr> 
+<th width="400">Large Model Privacy Protection for Identity Verification</th>
+<th width="400">CCF-Ant Research Fund</th> 
+<th width="50">PI</th> 
+<th width="150">2022.3-2023.3</th> 
+</tr> 
+
+<tr> 
+<th width="400">"Digital Cultural and Creative Assets Ownership Management and Service Network"</th>
+<th width="400">The National Key Research and Development Program of China</th> 
+<th width="50">co-PI</th> 
+<th width="150">2024.1-2026.12</th> 
+</tr> 
+
+<tr> 
 <th width="400">xxxxFake Certificate Detection</th>
 <th width="400">Alibaba Innovative Research (AIR) Program Supported by Alibaba Group</th> 
 <th width="50">PI</th> 
