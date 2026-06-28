@@ -6,7 +6,7 @@ layout: default
   <tr>
     <th width="120">
 <img src="/assets/images/photo.jpg" width="110" height="150" /></th>
-  <th> <font size="5" color="Blue">  李晟 </font><br/> 教授、博导 <br/><i>复旦大学计算与智能创新学院</i><br/>邮箱: lisheng [at] fudan.edu.cn<i><br/><a href="./en.html">[English]</a></i></th>
+  <th> <font size="5" color="Blue">  李晟 </font><br/> 教授、博导 <br/>复旦大学计算与智能创新学院<br/>邮箱: lisheng [at] fudan.edu.cn<i><br/><a href="./en.html">[English]</a></i></th>
   </tr>
 </table>
 
