@@ -6,12 +6,12 @@ layout: default
   <tr>
     <th width="120">
 <img src="/assets/images/photo.jpg" width="110" height="150" /></th>
-  <th> <font size="5" color="Blue">  Sheng LI (李晟) </font><br/> <i>Associate Professor, </i> <br/><i>School of Computer Science, Fudan University</i><br/>Email: lisheng [at] fudan.edu.cn<i><br/><a href="./">[中文]</a></i></th>
+  <th> <font size="5" color="Blue">  Sheng LI (李晟) </font><br/> <i>Professor, </i> <br/><i>College of Computer Science and Artificial Intelligence, Fudan University</i><br/>Email: lisheng [at] fudan.edu.cn<i><br/><a href="./">[中文]</a></i></th>
   </tr>
 </table>
 
 
-I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently an Associate Professor with the School of Computer Science, Fudan University, China. I am a recipient of the IEEE WIFS Best Student Paper Silver Award.
+I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently a  Professor with the College of Computer Science and Artificial Intelligence, Fudan University, China. I am a recipient of the IEEE WIFS Best Student Paper Silver Award.
 
 * * *
 # RESEARCH
