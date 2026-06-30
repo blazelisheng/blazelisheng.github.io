@@ -11,7 +11,7 @@ layout: default
 </table>
 
 
-I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently a  Professor with the College of Computer Science and Artificial Intelligence, Fudan University, China. I am a recipient of the IEEE WIFS Best Student Paper Silver Award.
+I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot](http://www.ntu.edu.sg/home/eackot/). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently a  Professor with the College of Computer Science and Artificial Intelligence, Fudan University, China. I am the recipient of several best paper awards or nominations at prestigious venues including IEEE WIFS, IEEE MMSP and World AI Conference.
 
 * * *
 # RESEARCH
