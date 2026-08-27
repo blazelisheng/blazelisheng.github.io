@@ -114,6 +114,13 @@ layout: default
 <table border="0" cellspacing="0" cellpadding="0">
 
 <tr> 
+<th width="400">多源证据驱动的人工智能生成图像真伪推理</th>
+<th width="400">国家自然科学基金面上项目</th> 
+<th width="100">项目负责人</th> 
+<th width="100">2027.1-2030.12</th> 
+</tr> 
+
+<tr> 
 <th width="400">核身场景大模型身份信息隐私保护</th>
 <th width="400">CCF-蚂蚁科研基金隐私计算专项</th> 
 <th width="100">项目负责人</th> 
@@ -144,13 +151,13 @@ layout: default
 <th width="400">人工智能模型安全和测试方法</th>
 <th width="400">国家自然基金联合重点项目</th> 
 <th width="100">子课题负责人</th> 
-<th width="100">2021.1-2023.12</th> 
+<th width="100">2021.1-2024.12</th> 
 </tr> 
 <tr> 
 <th width="400">面向社交网络的稳健数字图像隐写</th>
 <th width="400">国家自然科学基金面上项目</th> 
 <th width="100">项目负责人</th> 
-<th width="100">2021.1-2023.12</th> 
+<th width="100">2021.1-2024.12</th> 
 </tr> 
 <tr> 
 <th width="400">xxx保护方法</th>
