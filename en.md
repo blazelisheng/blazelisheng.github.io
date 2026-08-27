@@ -126,7 +126,7 @@ Conference papers (selected)
 <th width="400">Large Model Privacy Protection for Identity Verification</th>
 <th width="400">CCF-Ant Research Fund</th> 
 <th width="50">PI</th> 
-<th width="150">2022.3-2023.3</th> 
+<th width="150">2025.4-2026.3</th> 
 </tr> 
 
 <tr> 
