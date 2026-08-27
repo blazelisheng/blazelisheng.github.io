@@ -116,6 +116,13 @@ Conference papers (selected)
 <table border="0" cellspacing="0" cellpadding="0">
 
 <tr> 
+<th width="400">Reasoning AI-Generated Image Detection Based on Multi-Source Evidence</th>
+<th width="400">National Natural Science Foundation of China</th> 
+<th width="50">PI</th> 
+<th width="150">2027.1-2030.12</th> 
+</tr> 
+
+<tr> 
 <th width="400">Large Model Privacy Protection for Identity Verification</th>
 <th width="400">CCF-Ant Research Fund</th> 
 <th width="50">PI</th> 
