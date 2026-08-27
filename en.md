@@ -130,11 +130,20 @@ Conference papers (selected)
 </tr> 
 
 <tr> 
-<th width="400">"Digital Cultural and Creative Assets Ownership Management and Service Network"</th>
+<th width="400">Secure and Controllable Image and Video Generation</th>
+<th width="400">Major Science and Technology Project of Jiangsu Province</th> 
+<th width="50">co-PI</th> 
+<th width="150">2024.11-2027.10</th> 
+</tr> 
+
+<tr> 
+<th width="400">Digital Cultural and Creative Assets Ownership Management and Service Network</th>
 <th width="400">The National Key Research and Development Program of China</th> 
 <th width="50">co-PI</th> 
 <th width="150">2024.1-2026.12</th> 
 </tr> 
+
+
 
 <tr> 
 <th width="400">xxxxFake Certificate Detection</th>
@@ -143,13 +152,7 @@ Conference papers (selected)
 <th width="150">2022.3-2023.3</th> 
 </tr> 
   
-<tr> 
-<th width="400">Package Watermarking</th>
-<th width="400">SIIA Tech Research Project</th> 
-<th width="50">PI</th> 
-<th width="150">2022.1-2022.7</th> 
-</tr> 
-<tr> 
+
 <th width="400">Artificial Intelligence Security Model and Testing Methods</th>
 <th width="400">National Natural Science Foundation of China, Key Project</th> 
 <th width="50">co-PI</th> 
