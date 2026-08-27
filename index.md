@@ -126,7 +126,12 @@ layout: default
 <th width="100">项目负责人</th> 
 <th width="100">2025.4-2026.3</th> 
 </tr> 
-
+<tr> 
+<th width="400">安全可控的图像视频内容生成关键技术研发</th>
+<th width="400">江苏省科技重大专项</th> 
+<th width="100">子课题负责人</th> 
+<th width="100">2024.11-2027.10</th> 
+</tr> 
 <tr> 
 <th width="400">数字文创资产权属管理及服务网络</th>
 <th width="400">国家重点研发计划</th> 
@@ -141,13 +146,6 @@ layout: default
 <th width="100">2022.3-2023.3</th> 
 </tr> 
   
-<tr> 
-<th width="400">产品外包装水印</th>
-<th width="400">上海驰亚科技</th> 
-<th width="100">项目负责人</th> 
-<th width="100">2022.1-2022.7</th> 
-</tr> 
-<tr> 
 <th width="400">人工智能模型安全和测试方法</th>
 <th width="400">国家自然基金联合重点项目</th> 
 <th width="100">子课题负责人</th> 
