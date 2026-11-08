@@ -12,7 +12,7 @@ layout: default
 
 
 I received the Ph.D. degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2013, under the supervision of [Prof. Alex Kot]([https://dr.ntu.edu.sg/entities/person/Kot-Chichung-Alex]). From 2013 to 2016, I was a Research Fellow at the Rapid Rich Object Search Lab, Nanyang Technological University. I am currently a  Professor with the College of Computer Science and Artificial Intelligence, Fudan University, China. I am the recipient of several best paper awards or nominations at prestigious venues including IEEE WIFS, IEEE MMSP and World AI Conference.
-<a href="{{ '/docs/cv_lisheng_2026.pdf' | relative_url }}" target="_blank">
+<a href="{{ '/docs/cv_lisheng_2026a.pdf' | relative_url }}" target="_blank">
   📄 Curriculum Vitae (PDF)
 </a>
 
@@ -204,6 +204,9 @@ Conference papers (selected)
 
 * * *
 # SERVICES
+International Journal Editor:
+1. IEEE Transactions on Information Forensics and Security (Associate Editor)
+2. Frontiers of Computer Science (FCS) (Assistant Editor)
 
 International Journal Guest Editor：
 1.	Mathematical Methods Applied in Explainable Fake Multimedia Detection, Mathematics, 2022 (Lead Guest Editor)
