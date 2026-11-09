@@ -206,6 +206,7 @@ Conference papers (selected)
 # SERVICES
 International Journal Editor:
 1. IEEE Transactions on Information Forensics and Security (Associate Editor)
+2. Frontiers of Computer Science （Assistant Editor）
 
 International Journal Guest Editor：
 1.	Mathematical Methods Applied in Explainable Fake Multimedia Detection, Mathematics, 2022 (Lead Guest Editor)
