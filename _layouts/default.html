@@ -29,10 +29,31 @@
         {{ content }}
 
       </section>
-    <footer>
-      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=6eEqK1qSLG9T5rhe--BRoJtmlr9Gx-rI62HFsXMwbUE&cl=ffffff&w=a"></script>
-      <p><small>Last Updated:Aug 2026</p>
-    </footer>
+<footer>
+  <!-- 访客地图：替换 YOUR_WIDGET_KEY 后生效 -->
+  <div style="margin-bottom: 10px;">
+    <img
+      src="https://mapmyvisitors.com/map.png?d=YOUR_WIDGET_KEY"
+      alt="Visitor locations"
+      width="180"
+      style="max-width: 100%; height: auto;"
+    >
+  </div>
+
+  <!-- 网站累计浏览次数 -->
+  <p>
+    <span id="busuanzi_container_site_pv" style="display: none;">
+      Total views: <span id="busuanzi_value_site_pv"></span>
+    </span>
+  </p>
+
+  <script async
+    src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>
+
+  <p><small>Last Updated: Aug 2026</small></p>
+</footer>
+      
     </div>
 
     {% if site.google_analytics %}
